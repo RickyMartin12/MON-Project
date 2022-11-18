@@ -1,0 +1,1 @@
+2019-11-06 19:20:16 davida: deleted service 4365 INT <br>2019-11-06 19:20:23 davida: deleted service 4364 TV <br>2019-11-06 19:21:20 davida: deleted connection 2725 GPON, equip ZNTS03725C61 and its services <br>2022-06-03 10:33:48 pedrot: connection GPON added with equipment ZNTS03F652CD<br>

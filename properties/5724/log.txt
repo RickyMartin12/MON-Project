@@ -1,0 +1,1 @@
+2021-01-13 15:42:47 danielj: connection GPON added with equipment TEST2727e2428<br>2021-01-13 15:57:14 danielj: deleted service 14192 PHN <br>2022-05-30 14:55:33 pedrot: update service_attributes set value="108" where service_id=14194 and name="vlan" <br>2022-09-13 08:42:57 danielj: <b>Entry Log on Property number 5724</b> - chefe pedro<br>

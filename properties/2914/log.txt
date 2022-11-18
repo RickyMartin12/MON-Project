@@ -1,0 +1,1 @@
+2022-02-14 14:40:29 mariov: deleted service 4984 PHN <br>2022-07-13 12:01:29 pedrot: update service_attributes set value="41" where service_id=4983 and name="speed" <br>2022-07-13 12:04:14 pedrot: update service_attributes set value="1001" where service_id=4983 and name="vlan" <br>

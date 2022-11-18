@@ -1,0 +1,1 @@
+2020-01-15 11:51:59 tiagog: deleted service 9002 TV <br>2020-01-15 11:52:04 tiagog: deleted service 9003 INT <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 4241 as it was assigned to property BAV318 <br>

@@ -1,0 +1,1 @@
+2021-09-16 15:19:47 mariov: update service_attributes set value="27_BGV" where service_id=14600 and name="wifi_ssid" <br>2021-09-16 15:19:48 mariov: update service_attributes set value="31117539" where service_id=14600 and name="wifi_key" <br>2022-03-15 16:21:42 danielj: deleted modem  from connection 3953 as it was assigned to property BAV318 <br>

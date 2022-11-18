@@ -1,0 +1,1 @@
+2020-07-29 13:01:56 danielj: deleted service 6511 PHN <br>2022-08-18 16:48:08 mariov: update service_attributes set value="41" where service_id=6510 and name="speed" <br>2022-08-24 10:06:01 mariov: update service_attributes set value="114" where service_id=6510 and name="vlan" <br>

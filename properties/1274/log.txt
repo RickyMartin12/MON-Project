@@ -1,0 +1,1 @@
+2019-11-21 09:20:47 tiagog: deleted service 1695 PHN <br>2019-11-21 09:20:56 tiagog: deleted service 1693 TV <br>2022-07-30 14:47:48 tiagog: update service_attributes set value="9" where service_id=1694 and name="speed" <br>

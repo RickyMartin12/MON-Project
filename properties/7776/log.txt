@@ -1,0 +1,1 @@
+2022-08-25 09:20:04 mariov: insert into service_attributes (service_id,name,value,date) values (18452,"unms_site","https://lazer.unmsapp.com/nms/endpoints/3bdae29e-f3b1-40d4-9b1f-99e1897d74aa","2022-08-25") <br>

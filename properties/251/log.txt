@@ -1,0 +1,1 @@
+2020-08-06 17:58:57 tiagog: deleted service 7390 INT <br>2020-08-06 18:00:02 tiagog: deleted service 6394 PHN <br>2022-08-07 11:28:17 mariov: update service_attributes set value="41" where service_id=6393 and name="speed" <br>

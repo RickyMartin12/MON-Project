@@ -1,0 +1,1 @@
+2022-03-15 16:21:43 danielj: deleted modem  from connection 4118 as it was assigned to property BAV318 <br>2022-08-03 13:47:40 tiagog: update service_attributes set value="9" where service_id=5393 and name="speed" <br>2022-08-03 13:47:40 tiagog: update service_attributes set value=""Lazer Cable 99"" where service_id=5393 and name="wifi_ssid" <br>

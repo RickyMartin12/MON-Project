@@ -1,0 +1,1 @@
+2022-01-14 16:34:57 pedrot: update service_attributes set value="Lazer_QuintaOliveiras" where service_id=16572 and name="wifi_ssid" <br>

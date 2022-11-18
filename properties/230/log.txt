@@ -1,0 +1,1 @@
+2019-06-27 17:23:49 ricardom: deleted service 8201 PHN <br>2022-06-10 14:47:55 pedrot: deleted service 11333 TV <br>2022-06-10 14:49:40 pedrot: update service_attributes set value="43" where service_id=11332 and name="speed" <br>2022-06-17 17:38:18 mariov: update service_attributes set value="9" where service_id=11332 and name="speed" <br>

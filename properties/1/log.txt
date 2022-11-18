@@ -1,0 +1,1 @@
+2021-03-10 15:48:29 tiagog: deleted service 6015 PHN <br>2022-09-20 11:02:28 danielj: All Services on connection number <b>1</b> was suspended on date <b>2022-09-20</b><br>2022-09-20 11:02:40 danielj: All Services on connection number <b>1</b> was reactivated on date <b>2022-09-20</b><br>

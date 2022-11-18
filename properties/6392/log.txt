@@ -1,0 +1,1 @@
+2021-11-18 14:35:38 danielj: update service_attributes set value="Lazer_Alberinha" where service_id=16212 and name="wifi_ssid" <br>2021-11-18 14:35:38 danielj: update service_attributes set value="77777777" where service_id=16212 and name="wifi_key" <br>

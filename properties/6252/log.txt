@@ -1,0 +1,1 @@
+2021-09-21 17:25:49 tiagog: update service_attributes set value="106" where service_id=15896 and name="vlan" <br>

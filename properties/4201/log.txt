@@ -1,0 +1,1 @@
+2022-05-13 19:05:15 tiagog: update service_attributes set value="41" where service_id=8875 and name="speed" <br>2022-06-20 08:44:18 pedrot: deleted service 8874 TV <br>2022-06-23 13:49:59 tiagog: update service_attributes set value="42" where service_id=8875 and name="speed" <br>

@@ -1,0 +1,1 @@
+2021-09-17 15:11:05 laurop: update service_attributes set value="9" where service_id=15722 and name="speed" <br>2021-09-17 16:23:53 mariov: insert into service_attributes (service_id,name,value,date) values (15877,"bridge_port","4","2021-09-17") <br>2022-03-15 16:21:41 danielj: deleted modem  from connection 3146 as it was assigned to property BAV318 <br>

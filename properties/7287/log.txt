@@ -1,0 +1,1 @@
+2022-07-04 11:29:55 felisbelar: update service_attributes set value="MariaJoao" where service_id=17619 and name="wifi_key" <br>2022-07-04 11:31:17 felisbelar: update service_attributes set value="mariajoao" where service_id=17619 and name="wifi_key" <br>

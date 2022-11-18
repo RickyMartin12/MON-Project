@@ -1,0 +1,1 @@
+2022-06-14 18:18:11 felisbelar: update service_attributes set value="Lucy&Charlie&AreTheBest" where service_id=17777 and name="wifi_ssid" <br>

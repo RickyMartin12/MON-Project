@@ -1,0 +1,1 @@
+2019-12-10 11:10:04 brunob: deleted service 10864 INT <br>2019-12-10 11:10:12 brunob: deleted service 10991 PHN <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 4499 as it was assigned to property BAV318 <br>

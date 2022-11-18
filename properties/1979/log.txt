@@ -1,0 +1,1 @@
+2022-05-02 16:12:34 pedrot: update service_attributes set value="42" where service_id=2558 and name="speed" <br>2022-05-02 16:12:34 pedrot: update service_attributes set value="lzr423vdl" where service_id=2558 and name="wifi_key" <br>2022-06-18 17:10:32 pedrot: insert into service_attributes (service_id,name,value,date) values (2558,"portfw_id","VDL423","2022-06-18") <br>

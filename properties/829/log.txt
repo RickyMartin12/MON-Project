@@ -1,0 +1,1 @@
+2022-03-28 10:41:23 davidj: update service_attributes set value="103" where service_id=3290 and name="vlan" <br>2022-06-29 11:16:09 tiagog: update service_attributes set value="2" where service_id=3291 and name="phn_port" <br>2022-06-29 11:16:53 tiagog: update service_attributes set value="1" where service_id=3292 and name="phn_port" <br>

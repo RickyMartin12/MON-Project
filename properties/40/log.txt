@@ -1,0 +1,1 @@
+2020-04-21 19:56:22 carlosr: deleted service 7319 INT <br>2020-04-21 19:56:27 carlosr: deleted service 13 TV <br>2020-07-15 15:28:18 brunoc: deleted service 13099 TV <br>2020-07-15 15:28:33 brunoc: deleted service 13100 INT <br>2022-08-07 09:49:25 mariov: update service_attributes set value="9" where service_id=13507 and name="speed" <br>

@@ -1,0 +1,1 @@
+2021-01-21 15:31:23 mariov: deleted service 12117 TV <br>2022-08-01 17:25:37 mariov: update service_attributes set value="42" where service_id=12118 and name="speed" <br>2022-08-01 17:30:56 mariov: update service_attributes set value="1001" where service_id=12118 and name="vlan" <br>

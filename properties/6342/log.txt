@@ -1,0 +1,1 @@
+2021-10-22 15:02:15 tiagog: update service_attributes set value="killeen7718" where service_id=16061 and name="wifi_key" <br>2021-10-22 15:05:39 tiagog: update service_attributes set value="Lazer_RC_D" where service_id=16061 and name="wifi_ssid" <br>2021-10-22 15:10:31 tiagog: update service_attributes set value="killeen2710" where service_id=16061 and name="wifi_key" <br>

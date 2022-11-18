@@ -1,0 +1,1 @@
+2022-03-17 09:55:34 pedrot: update service_attributes set value="Lazer_villalouisa" where service_id=17008 and name="wifi_ssid" <br>2022-03-17 09:55:34 pedrot: update service_attributes set value="Portugal1939" where service_id=17008 and name="wifi_key" <br>

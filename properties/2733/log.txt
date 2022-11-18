@@ -1,0 +1,1 @@
+2021-09-27 09:56:06 laurop: deleted service 4280 PHN <br>2022-05-07 15:54:45 tiagog: update service_attributes set value="9" where service_id=4279 and name="speed" <br>

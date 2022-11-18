@@ -1,0 +1,1 @@
+2022-05-30 10:11:20 pedrot: insert into service_attributes (service_id,name,value,date) values (13990,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/cojl99vs/dashboard","2022-05-30") <br>

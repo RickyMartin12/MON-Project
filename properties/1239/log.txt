@@ -1,0 +1,1 @@
+2022-06-10 15:53:59 pedrot: update service_attributes set value="9" where service_id=12200 and name="speed" <br>2022-07-28 13:14:23 mariov: deleted service 14342 INT <br>

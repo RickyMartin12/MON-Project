@@ -1,0 +1,1 @@
+2022-07-27 10:51:06 felisbelar: update service_attributes set value="1001" where service_id=18222 and name="vlan" <br>2022-07-27 11:01:29 felisbelar: update service_attributes set value="103" where service_id=18222 and name="vlan" <br>

@@ -1,0 +1,1 @@
+2022-08-19 17:41:01 felisbelar: update service_attributes set value="1025" where service_id=18436 and name="vlan" <br>2022-09-16 19:31:56 danielj: Insert ONT equipment ZNTS1234 on type GPON<br>2022-09-16 19:31:56 danielj: connection GPON added with equipment ZNTS1234<br>2022-09-16 19:32:01 danielj: The connection number <b>8674</b> was disconnected on date <b>2022-09-16</b><br>

@@ -1,0 +1,1 @@
+2019-04-21 00:04:00 carlosr: deleted service 5519 PHN <br>2019-04-21 00:04:00 carlosr: deleted service 5520 PHN <br>2019-04-21 00:04:09 carlosr: deleted service 8286 PHN <br>2019-04-21 00:04:14 carlosr: deleted service 8287 PHN <br>2022-03-15 16:21:42 danielj: deleted modem  from connection 3437 as it was assigned to property BAV318 <br>

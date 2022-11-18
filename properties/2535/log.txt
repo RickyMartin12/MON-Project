@@ -1,0 +1,1 @@
+2019-11-04 13:35:48 tiagog: deleted service 3641 INT <br>2020-08-31 15:09:28 : connection GPON added with equipment ZNTS03AB50F6<br>2020-08-31 15:13:15 : deleted connection 5856 GPON, equip ZNTS03AB50F6 and its services <br>

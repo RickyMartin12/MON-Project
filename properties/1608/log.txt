@@ -1,0 +1,1 @@
+2021-09-15 16:26:57 mariov: update service_attributes set value="104_BGV" where service_id=15865 and name="wifi_ssid" <br>2021-09-15 16:26:57 mariov: update service_attributes set value="69802348" where service_id=15865 and name="wifi_key" <br>

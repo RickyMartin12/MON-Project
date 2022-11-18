@@ -1,0 +1,1 @@
+2022-08-24 15:44:23 mariov: insert into service_attributes (service_id,name,value,date) values (3234,"wifi_site","https://89.31.231.11:8443/manage/site/ygd8hy38/dashboard","2022-08-24") <br>

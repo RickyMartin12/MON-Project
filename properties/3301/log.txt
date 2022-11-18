@@ -1,0 +1,1 @@
+2020-06-11 18:34:46 brunoc: deleted service 13272 PHN <br>2020-06-11 18:37:11 brunoc: deleted service 13273 PHN <br>2022-03-15 16:21:42 danielj: deleted modem  from connection 3301 as it was assigned to property BAV318 <br>2022-06-11 09:40:10 mariov: insert into service_attributes (service_id,name,value,date) values (12559,"bridge_port","1","2022-06-11") <br>

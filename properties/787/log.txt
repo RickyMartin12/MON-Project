@@ -1,0 +1,1 @@
+2022-04-11 22:17:24 carlosr: deleted service 7469 INT <br>2022-04-11 22:18:38 carlosr: update service_attributes set value="66" where service_id=7228 and name="speed" <br>

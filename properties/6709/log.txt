@@ -1,0 +1,1 @@
+2022-08-19 17:42:11 emilianor: update service_attributes set value="Hcbcalas22" where service_id=16752 and name="wifi_key" <br>

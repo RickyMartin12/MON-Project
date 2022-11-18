@@ -1,0 +1,1 @@
+2022-03-15 16:21:41 danielj: deleted modem  from connection 3186 as it was assigned to property BAV318 <br>2022-04-27 16:08:25 tiagog: update service_attributes set value="106" where service_id=17351 and name="vlan" <br>

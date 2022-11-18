@@ -1,0 +1,1 @@
+2019-05-25 22:38:55 carlosr: deleted connection 1547 COAX, equip 0005CA556AA3 and its services  id 542type TV id 7170type INT<br>

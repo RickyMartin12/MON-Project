@@ -1,0 +1,1 @@
+2022-05-19 14:47:56 mariov: update service_attributes set value="0" where service_id=17360 and name="wifi" <br>

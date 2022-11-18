@@ -1,0 +1,1 @@
+2022-02-04 17:02:10 pedrot: update service_attributes set value="lzr152vmv" where service_id=11371 and name="wifi_key" <br>2022-02-07 09:31:56 pedrot: update service_attributes set value="9" where service_id=11371 and name="speed" <br>

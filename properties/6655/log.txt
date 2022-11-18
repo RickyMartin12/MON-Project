@@ -1,0 +1,1 @@
+2022-01-28 17:17:29 davidj: update service_attributes set value="William6" where service_id=16660 and name="wifi_ssid" <br>

@@ -1,0 +1,1 @@
+2021-11-28 20:37:42 mariov: update service_attributes set value="41" where service_id=2027 and name="speed" <br>2021-11-30 11:27:52 mariov: update service_attributes set value="0" where service_id=2027 and name="wifi" <br>2021-11-30 12:25:11 mariov: update service_attributes set value="3" where service_id=2027 and name="speed" <br>

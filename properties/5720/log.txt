@@ -1,0 +1,1 @@
+2022-04-08 16:58:18 tiagog: insert into service_attributes (service_id,name,value,date) values (14283,"dhcp_id","1","2022-04-08") <br>2022-06-09 11:48:51 felisbelar: update service_attributes set value="0" where service_id=14283 and name="wifi" <br>

@@ -1,0 +1,1 @@
+2022-03-29 16:53:04 davidj: update service_attributes set value="" where service_id=17123 and name="speed" <br>2022-03-29 16:53:04 davidj: update service_attributes set value="Lazer_AirCube" where service_id=17123 and name="wifi_ssid" <br>2022-03-29 16:53:04 davidj: update service_attributes set value="Bublepip" where service_id=17123 and name="wifi_key" <br>

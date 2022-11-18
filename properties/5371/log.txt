@@ -1,0 +1,1 @@
+2021-07-14 12:30:54 : deleted service 15362 TV <br>2022-06-24 15:27:04 tiagog: update service_attributes set value="42" where service_id=13490 and name="speed" <br>

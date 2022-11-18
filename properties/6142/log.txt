@@ -1,0 +1,1 @@
+2021-11-10 20:04:19 mariov: update service_attributes set value="1002" where service_id=15550 and name="vlan" <br>2021-11-10 20:04:19 mariov: update service_attributes set value="Lazer_VMAUptown_E " where service_id=15550 and name="wifi_ssid" <br>

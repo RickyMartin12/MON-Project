@@ -1,0 +1,1 @@
+2020-12-15 19:05:26 brunoc: connection GPON added with equipment ZNTS03AB4D34<br>2022-05-17 16:32:19 felisbelar: update service_attributes set value="Lazer_CasaKarand" where service_id=14067 and name="wifi_ssid" <br>2022-05-17 16:39:10 felisbelar: update service_attributes set value="Lazer_Jacaranda" where service_id=14067 and name="wifi_ssid" <br>

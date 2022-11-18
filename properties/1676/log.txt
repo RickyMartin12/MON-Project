@@ -1,0 +1,1 @@
+2020-04-21 01:57:13 carlosr: deleted connection 1676 COAX, equip BC4DFB816F60 and its services  id 622type TV id 7773type INT<br>2020-04-21 01:57:46 carlosr: connection ETH added with equipment 0c8063422d51 <br>

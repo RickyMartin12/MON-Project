@@ -1,0 +1,1 @@
+2022-07-22 13:24:32 felisbelar: update service_attributes set value="AC.STUDIO" where service_id=18167 and name="wifi_ssid" <br>

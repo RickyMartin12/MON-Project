@@ -1,0 +1,1 @@
+2022-07-27 17:17:24 felisbelar: update service_attributes set value="1" where service_id=3252 and name="wifi_profile" <br>2022-07-27 17:17:54 felisbelar: update service_attributes set value="0" where service_id=3252 and name="wifi_profile" <br>2022-07-27 17:23:34 felisbelar: update service_attributes set value="1001" where service_id=3252 and name="vlan" <br>

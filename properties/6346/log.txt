@@ -1,0 +1,1 @@
+2021-10-27 15:36:52 mariov: update service_attributes set value="932560530" where service_id=16100 and name="wifi_key" <br>

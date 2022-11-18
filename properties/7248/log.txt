@@ -1,0 +1,1 @@
+2022-07-15 16:25:01 pedrot: update service_attributes set value="0" where service_id=17784 and name="is_router" <br>2022-07-15 16:25:02 pedrot: update service_attributes set value="0" where service_id=17784 and name="wifi" <br>2022-07-15 16:25:02 pedrot: insert into service_attributes (service_id,name,value,date) values (17784,"bridge_port","1","2022-07-15") <br>

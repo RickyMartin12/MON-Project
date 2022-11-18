@@ -1,0 +1,1 @@
+2022-04-11 11:43:40 tiagog: update service_attributes set value="11" where service_id=7484 and name="speed" <br>2022-04-11 22:11:42 carlosr: update service_attributes set value="66" where service_id=7484 and name="speed" <br>2022-08-22 12:28:00 mariov: update service_attributes set value="Lazer Cable 542" where service_id=18445 and name="wifi_ssid" <br>

@@ -1,0 +1,1 @@
+2022-07-28 11:26:40 danielj: update service_attributes set value=""Sports Park"" where service_id=18239 and name="wifi_ssid" <br>2022-07-28 11:28:57 danielj: update service_attributes set value="Sports Park" where service_id=18239 and name="wifi_ssid" <br>

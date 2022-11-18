@@ -1,0 +1,1 @@
+2022-07-02 21:14:13 danielj: update service_attributes set value="cottage03" where service_id=17898 and name="wifi_key" <br>

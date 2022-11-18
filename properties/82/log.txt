@@ -1,0 +1,1 @@
+2022-05-16 09:29:52 pedrot: update service_attributes set value="66" where service_id=7282 and name="speed" <br>2022-05-16 09:30:20 pedrot: deleted service 7526 INT <br>2022-07-04 14:43:50 pedrot: deleted modem 84948C15BFB4 from connection 82 as it was assigned to property DDR037 <br>

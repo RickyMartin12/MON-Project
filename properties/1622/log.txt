@@ -1,0 +1,1 @@
+2021-01-22 15:23:05 pedrot: connection GPON added with equipment ZNTS037250DF <br>2022-06-07 23:04:36 carlosr: update service_attributes set value="41" where service_id=14262 and name="vlan" <br>

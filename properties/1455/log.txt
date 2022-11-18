@@ -1,0 +1,1 @@
+2021-07-29 12:40:58 mariov: deleted service 1991 PHN <br>2022-07-22 12:36:54 felisbelar: update service_attributes set value="1" where service_id=1990 and name="wifi" <br>

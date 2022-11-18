@@ -1,0 +1,1 @@
+2021-09-09 17:18:27 pedrot: deleted service 12115 TV <br>2021-09-09 17:18:42 pedrot: deleted service 12116 INT <br>2022-03-15 16:21:41 danielj: deleted modem  from connection 3003 as it was assigned to property BAV318 <br>

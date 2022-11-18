@@ -1,0 +1,1 @@
+2022-08-20 15:43:28 tiagog: update service_attributes set value="43" where service_id=7006 and name="speed" <br>2022-08-20 15:45:56 tiagog: update service_attributes set value="fkz091ddr" where service_id=18437 and name="wifi_key" <br>

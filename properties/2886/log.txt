@@ -1,0 +1,1 @@
+2019-12-23 10:25:12 tiagog: deleted service 4857 PHN <br>2021-12-10 18:31:13 mariov: update service_attributes set value="43" where service_id=4856 and name="speed" <br>2021-12-10 18:36:36 mariov: insert into service_attributes (service_id,name,value,date) values (16340,"bridge_port","2","2021-12-10") <br>

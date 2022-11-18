@@ -1,0 +1,1 @@
+2022-07-25 12:25:38 mariov: update service_attributes set value="calmaguest" where service_id=18183 and name="wifi_key" <br>2022-07-27 13:01:43 tiagog: insert into service_attributes (service_id,name,value,date) values (18183,"wifi_site","https://89.31.231.11:8343/717395e0d70b0213193d271861c72b1e","2022-07-27") <br>

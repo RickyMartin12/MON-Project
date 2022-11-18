@@ -1,0 +1,1 @@
+2022-03-15 18:54:48 mariov: insert into service_attributes (service_id,name,value,date) values (2644,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/s6alk3dx/dashboard","2022-03-15") <br>

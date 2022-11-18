@@ -1,0 +1,1 @@
+2021-12-06 18:56:29 mariov: update service_attributes set value="41" where service_id=5549 and name="speed" <br>2021-12-20 18:53:46 pedrot: update service_attributes set value="113" where service_id=5549 and name="vlan" <br>2022-01-30 20:12:56 pedrot: deleted service 5550 PHN <br>

@@ -1,0 +1,1 @@
+2022-02-23 18:28:56 pedrot: update service_attributes set value="Lazer_labamba" where service_id=13108 and name="wifi_ssid" <br>2022-02-23 18:28:56 pedrot: update service_attributes set value="vvh023eul" where service_id=13108 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2021-10-11 16:54:26 laurop: update service_attributes set value="86171533" where service_id=16007 and name="wifi_key" <br>2021-10-11 16:54:51 laurop: update service_attributes set value="lzr005stb" where service_id=16007 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2021-09-11 11:58:11 carlosr: deleted service 7593 INT <br>2022-07-26 10:55:52 mariov: update service_attributes set value="66" where service_id=7451 and name="speed" <br>2022-08-16 17:54:39 pedrot: deleted modem 0C473D41B470 from connection 794 as it was assigned to property PHA024 <br>

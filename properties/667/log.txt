@@ -1,0 +1,1 @@
+2019-06-15 12:27:14 carlosr: deleted connection 667 GPON, equip  and its services  id 10547type TV id 10548type INT<br>

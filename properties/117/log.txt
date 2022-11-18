@@ -1,0 +1,1 @@
+2020-10-20 14:52:03 danielj: deleted service 13841 TV <br>2020-10-20 14:52:27 danielj: deleted service 13842 INT <br>2020-10-20 14:56:36 danielj: deleted connection 6001 GPON, equip ZNTS and its services <br>

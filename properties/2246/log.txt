@@ -1,0 +1,1 @@
+2019-10-23 18:01:08 tiagog: deleted service 3033 PHN <br>2022-05-24 14:48:44 pedrot: update service_attributes set value="43" where service_id=3032 and name="speed" <br>

@@ -1,0 +1,1 @@
+2021-12-07 15:39:12 mariov: update service_attributes set value="42" where service_id=12030 and name="speed" <br>2021-12-07 15:54:43 mariov: update service_attributes set value="svg095vsv" where service_id=12030 and name="wifi_key" <br>

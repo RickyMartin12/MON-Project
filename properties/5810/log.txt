@@ -1,0 +1,1 @@
+2021-12-14 11:25:27 mariov: insert into service_attributes (service_id,name,value,date) values (16348,"bridge_port","4","2021-12-14") <br>2022-04-30 16:07:30 mariov: deleted service 16348 INT <br>

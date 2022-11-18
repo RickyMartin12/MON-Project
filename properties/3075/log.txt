@@ -1,0 +1,1 @@
+2020-10-14 16:50:26 brunoc: deleted service 7118 PHN <br>2022-03-15 16:21:41 danielj: deleted modem  from connection 3075 as it was assigned to property BAV318 <br>

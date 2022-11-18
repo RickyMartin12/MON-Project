@@ -1,0 +1,1 @@
+2022-07-08 13:06:09 felisbelar: update service_attributes set value="104" where service_id=18028 and name="vlan" <br>2022-08-12 12:44:15 tiagog: update service_attributes set value="0" where service_id=18028 and name="is_router" <br>2022-08-12 12:44:15 tiagog: insert into service_attributes (service_id,name,value,date) values (18028,"bridge_port","1","2022-08-12") <br>

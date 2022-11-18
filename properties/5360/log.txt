@@ -1,0 +1,1 @@
+2022-07-01 10:52:05 tiagog: update service_attributes set value="43" where service_id=13468 and name="speed" <br>2022-07-01 16:09:22 felisbelar: update service_attributes set value="1002" where service_id=13468 and name="vlan" <br>

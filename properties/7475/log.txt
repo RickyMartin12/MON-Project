@@ -1,0 +1,1 @@
+2022-07-06 13:04:37 felisbelar: update service_attributes set value="45zh7dgt" where service_id=17996 and name="wifi_key" <br>

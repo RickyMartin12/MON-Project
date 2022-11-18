@@ -1,0 +1,1 @@
+2022-01-19 16:54:06 danielj: deleted modem bc4dfb872240 from connection 1859 as it was assigned to property BAV048 <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 1859 as it was assigned to property BAV318 <br>

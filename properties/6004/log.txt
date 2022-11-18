@@ -1,0 +1,1 @@
+2021-06-19 16:20:34 tiagog: deleted connection 6660 GPON, equip  and its services <br>2021-06-19 16:20:41 tiagog: deleted connection 6661 GPON, equip  and its services <br>2021-06-19 16:21:26 tiagog: deleted service 15084 TV <br>2021-06-19 17:10:38 tiagog: deleted connection 6659 GPON, equip ZNTS03C14B1D and its services <br>

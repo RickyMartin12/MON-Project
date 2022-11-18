@@ -1,0 +1,1 @@
+2021-09-20 17:30:01 mariov: update service_attributes set value="Lazer40" where service_id=15888 and name="wifi_ssid" <br>2021-09-20 17:30:01 mariov: update service_attributes set value="12345678" where service_id=15888 and name="wifi_key" <br>

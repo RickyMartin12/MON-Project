@@ -1,0 +1,1 @@
+2021-09-01 09:15:19 laurop: deleted service 11338 INT <br>2022-04-22 18:50:02 pedrot: update service_attributes set value="33" where service_id=13877 and name="speed" <br>2022-04-22 18:51:28 pedrot: insert into service_attributes (service_id,name,value,date) values (13877,"bridge_port","1","2022-04-22") <br>

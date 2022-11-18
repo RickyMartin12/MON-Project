@@ -1,0 +1,1 @@
+2022-06-28 18:48:25 danielj: update service_attributes set value="Dune_2" where service_id=17881 and name="wifi_ssid" <br>2022-07-02 21:19:12 danielj: update service_attributes set value="cottage02" where service_id=17881 and name="wifi_key" <br>

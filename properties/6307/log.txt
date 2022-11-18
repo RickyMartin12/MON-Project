@@ -1,0 +1,1 @@
+2021-10-07 12:00:30 mariov: update service_attributes set value="Casa_Sonho" where service_id=15989 and name="wifi_ssid" <br>2021-12-20 19:00:12 pedrot: update service_attributes set value="113" where service_id=15989 and name="vlan" <br>

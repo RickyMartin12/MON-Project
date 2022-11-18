@@ -1,0 +1,1 @@
+2020-11-25 16:15:10 tiagog: deleted service 6210 PHN <br>2021-11-03 18:36:25 laurop: update service_attributes set value="32" where service_id=6209 and name="speed" <br>2022-02-02 10:44:10 pedrot: deleted service 6208 TV <br>2022-08-03 14:56:34 tiagog: update service_attributes set value="41" where service_id=6209 and name="speed" <br>

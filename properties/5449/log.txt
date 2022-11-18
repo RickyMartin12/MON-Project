@@ -1,0 +1,1 @@
+2022-08-10 17:54:19 tiagog: update service_attributes set value="9" where service_id=13616 and name="speed" <br>2022-08-10 17:54:19 tiagog: update service_attributes set value="Wheeler & Brand" where service_id=13616 and name="wifi_ssid" <br>2022-08-10 17:54:19 tiagog: update service_attributes set value="wab006alm" where service_id=13616 and name="wifi_key" <br>

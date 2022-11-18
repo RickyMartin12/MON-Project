@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpexcel": "^1.8",
+        "calcinai/php-imagick": "^0.1.2"
+    }
+}

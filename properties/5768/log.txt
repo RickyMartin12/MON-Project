@@ -1,0 +1,1 @@
+2022-02-04 14:58:49 mariov: insert into service_attributes (service_id,name,value,date) values (14349,"portfw_id","ALM123","2022-02-04") <br>

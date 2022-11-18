@@ -1,0 +1,1 @@
+2020-11-30 09:47:56 brunoc: deleted service 2239 PHN <br>2022-06-25 16:58:53 tiagog: update service_attributes set value="9" where service_id=2238 and name="speed" <br>2022-06-25 18:01:11 tiagog: update service_attributes set value="1001" where service_id=2238 and name="vlan" <br>

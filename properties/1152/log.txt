@@ -1,0 +1,1 @@
+2020-10-23 12:31:30 danielj: deleted service 2260 PHN <br>2021-10-29 11:32:21 tiagog: update service_attributes set value="Lazer1103_UK" where service_id=16119 and name="wifi_ssid" <br>2021-10-29 11:32:21 tiagog: update service_attributes set value="RDK270VDL" where service_id=16119 and name="wifi_key" <br>

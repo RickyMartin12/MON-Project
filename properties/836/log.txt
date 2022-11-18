@@ -1,0 +1,1 @@
+2021-09-11 12:05:36 carlosr: deleted service 10509 INT <br>2022-05-14 11:49:45 felisbelar: update service_attributes set value="66" where service_id=7166 and name="speed" <br>

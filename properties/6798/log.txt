@@ -1,0 +1,1 @@
+2022-05-20 17:05:14 mariov: insert into service_attributes (service_id,name,value,date) values (16964,"portfw_id","64","2022-05-20") <br>2022-07-20 08:15:26 pedrot: insert into service_attributes (service_id,name,value,date) values (16964,"unifi_site","https://89.31.231.11:8443/manage/site/y1d1wsn1/dashboard","2022-07-20") <br>

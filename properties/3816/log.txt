@@ -1,0 +1,1 @@
+2022-06-29 12:18:16 pedrot: update service_attributes set value="ROBKAREN" where service_id=6890 and name="wifi_ssid" <br>2022-06-29 12:18:16 pedrot: update service_attributes set value="arsenal11" where service_id=6890 and name="wifi_key" <br>

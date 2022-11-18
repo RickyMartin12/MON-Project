@@ -1,0 +1,1 @@
+2022-03-11 18:38:03 davidj: update service_attributes set value="" where service_id=17006 and name="speed" <br>2022-03-11 18:38:03 davidj: update service_attributes set value="0" where service_id=17006 and name="is_router" <br>2022-03-11 18:38:03 davidj: insert into service_attributes (service_id,name,value,date) values (17006,"bridge_port","1","2022-03-11") <br>

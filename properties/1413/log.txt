@@ -1,0 +1,1 @@
+2022-04-22 09:53:12 mariov: update service_attributes set value="66" where service_id=7235 and name="speed" <br>2022-07-24 10:23:56 felisbelar: update service_attributes set value="0" where service_id=7235 and name="wifi" <br>2022-07-24 10:24:01 felisbelar: update service_attributes set value="0" where service_id=7235 and name="wifi_profile" <br>

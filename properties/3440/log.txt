@@ -1,0 +1,1 @@
+2022-08-04 08:34:23 mariov: update service_attributes set value="2" where service_id=5530 and name="bridge_port" <br>

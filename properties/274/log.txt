@@ -1,0 +1,1 @@
+2022-06-13 09:51:21 pedrot: insert into service_attributes (service_id,name,value,date) values (2340,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/63md6pmc/dashboard","2022-06-13") <br>2022-06-30 10:54:42 tiagog: update service_attributes set value="9" where service_id=2340 and name="speed" <br>

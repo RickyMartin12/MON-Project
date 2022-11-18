@@ -1,0 +1,1 @@
+2021-12-22 17:30:35 pedrot: update service_attributes set value="Sao_Sebastiao" where service_id=16385 and name="wifi_ssid" <br>2021-12-22 17:30:35 pedrot: update service_attributes set value="Truffle2021" where service_id=16385 and name="wifi_key" <br>

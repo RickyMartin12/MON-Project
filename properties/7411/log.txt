@@ -1,0 +1,1 @@
+2022-06-23 12:35:13 pedrot: update service_attributes set value="Le1ghl1n" where service_id=17844 and name="wifi_key" <br>

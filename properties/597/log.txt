@@ -1,0 +1,1 @@
+2020-04-21 19:45:34 carlosr: deleted service 5148 TV <br>2020-04-21 19:46:25 carlosr: deleted service 5149 INT <br>2020-04-21 19:46:52 carlosr: deleted service 5150 PHN <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 597 as it was assigned to property BAV318 <br>

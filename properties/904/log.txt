@@ -1,0 +1,1 @@
+2021-11-12 19:37:57 pedrot: update service_attributes set value="0" where service_id=3311 and name="wifi" <br>

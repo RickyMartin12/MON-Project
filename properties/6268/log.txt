@@ -1,0 +1,1 @@
+2021-09-27 11:20:48 tiagog: update service_attributes set value="0" where service_id=15931 and name="is_router" <br>2021-09-27 11:20:48 tiagog: update service_attributes set value="0" where service_id=15931 and name="wifi" <br>2021-09-27 11:20:48 tiagog: insert into service_attributes (service_id,name,value,date) values (15931,"bridge_port","1","2021-09-27") <br>

@@ -1,0 +1,1 @@
+2022-05-30 18:04:01 felisbelar: update service_attributes set value="10" where service_id=13376 and name="speed" <br>2022-06-08 15:49:05 pedrot: update service_attributes set value="1001" where service_id=13376 and name="vlan" <br>2022-06-08 15:58:37 pedrot: update service_attributes set value="101" where service_id=13376 and name="vlan" <br>

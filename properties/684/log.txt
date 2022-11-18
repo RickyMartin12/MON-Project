@@ -1,0 +1,1 @@
+2020-04-22 15:00:12 carlosr: deleted service 13103 INT <br>2021-09-23 08:48:14 pedrot: update service_attributes set value="10" where service_id=1525 and name="speed" <br>

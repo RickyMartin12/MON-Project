@@ -1,0 +1,1 @@
+2022-05-31 15:57:13 felisbelar: update service_attributes set value="Lazer_House1" where service_id=17654 and name="wifi_ssid" <br>

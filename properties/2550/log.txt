@@ -1,0 +1,1 @@
+2021-03-15 11:43:00 danielj: deleted service 3734 PHN <br>2022-03-04 14:57:07 mariov: update service_attributes set value="41" where service_id=3733 and name="speed" <br>

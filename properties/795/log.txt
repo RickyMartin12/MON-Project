@@ -1,0 +1,1 @@
+2022-03-20 17:27:42 pedrot: deleted service 15823 INT <br>2022-03-20 17:28:04 pedrot: update service_attributes set value="11" where service_id=7537 and name="speed" <br>2022-07-22 15:39:12 pedrot: update service_attributes set value="66" where service_id=7537 and name="speed" <br>

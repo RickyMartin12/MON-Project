@@ -1,0 +1,1 @@
+2021-11-11 14:36:09 mariov: update service_attributes set value="Stockholm08" where service_id=15957 and name="wifi_key" <br>

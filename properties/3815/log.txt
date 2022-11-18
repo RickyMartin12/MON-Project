@@ -1,0 +1,1 @@
+2021-10-27 15:52:37 mariov: update service_attributes set value="7" where service_id=16102 and name="speed" <br>2021-10-27 15:53:33 mariov: update service_attributes set value="Lazer_CasaNeta" where service_id=16102 and name="wifi_ssid" <br>

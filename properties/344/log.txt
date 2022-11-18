@@ -1,0 +1,1 @@
+2021-09-24 10:38:27 pedrot: update service_attributes set value="lzr010cav" where service_id=4277 and name="wifi_key" <br>

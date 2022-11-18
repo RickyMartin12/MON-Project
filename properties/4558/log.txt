@@ -1,0 +1,1 @@
+2022-07-22 15:05:41 mariov: insert into service_attributes (service_id,name,value,date) values (11131,"wifi_site","https://89.31.231.11:8343/717395e0d70b0213193d271861c72b1e","2022-07-22") <br>

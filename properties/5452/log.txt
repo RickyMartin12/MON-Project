@@ -1,0 +1,1 @@
+2022-01-12 10:25:19 davidj: update service_attributes set value="CoolCod" where service_id=13649 and name="wifi_ssid" <br>2022-01-12 10:25:19 davidj: update service_attributes set value="CoolCod2022" where service_id=13649 and name="wifi_key" <br>

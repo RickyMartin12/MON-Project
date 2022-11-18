@@ -1,0 +1,1 @@
+2022-05-07 12:29:58 tiagog: update service_attributes set value="43" where service_id=5604 and name="speed" <br>2022-05-07 12:31:51 tiagog: update service_attributes set value="ROSEY1951" where service_id=17442 and name="wifi_key" <br>

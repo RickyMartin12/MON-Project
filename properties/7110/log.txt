@@ -1,0 +1,1 @@
+2022-04-28 16:45:47 pedrot: update service_attributes set value=""Casa Estrela de Rock"" where service_id=17362 and name="wifi_ssid" <br>2022-04-28 16:46:11 pedrot: update service_attributes set value="Casa Estrela de Rock" where service_id=17362 and name="wifi_ssid" <br>

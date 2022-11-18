@@ -1,0 +1,1 @@
+2021-12-10 17:20:01 mariov: insert into service_attributes (service_id,name,value,date) values (12838,"portfw_id","VMV233","2021-12-10") <br>2022-03-27 13:01:10 tiagog: update service_attributes set value="9" where service_id=12838 and name="speed" <br>2022-03-27 13:01:55 tiagog: update service_attributes set value="57" where service_id=12838 and name="portfw_id" <br>

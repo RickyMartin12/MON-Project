@@ -1,0 +1,1 @@
+2022-03-10 15:14:02 pedrot: deleted service 1812 TV <br>2022-03-10 15:14:23 pedrot: update service_attributes set value="42" where service_id=13628 and name="speed" <br>2022-03-10 15:14:23 pedrot: update service_attributes set value="lzr012qvv" where service_id=13628 and name="wifi_key" <br>

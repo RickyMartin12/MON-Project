@@ -1,0 +1,1 @@
+2022-05-04 15:18:30 tiagog: update service_attributes set value="41" where service_id=2029 and name="speed" <br>2022-05-04 15:21:10 tiagog: update service_attributes set value="lzr386vdl" where service_id=2029 and name="wifi_key" <br>

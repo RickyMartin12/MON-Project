@@ -1,0 +1,1 @@
+2022-03-30 14:24:54 davidj: update service_attributes set value="Vela" where service_id=2412 and name="wifi_ssid" <br>

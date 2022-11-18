@@ -1,0 +1,1 @@
+2022-06-22 15:09:48 felisbelar: update service_attributes set value="9" where service_id=5199 and name="speed" <br>2022-06-22 15:24:06 felisbelar: insert into service_attributes (service_id,name,value,date) values (5199,"portfw_id","47","2022-06-22") <br>

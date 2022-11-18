@@ -1,0 +1,1 @@
+2020-01-03 16:06:23 davida: deleted service 8222 PHN <br>2021-10-03 11:44:49 mariov: deleted service 12243 PHN <br>2022-01-07 09:07:05 davidj: update service_attributes set value="41" where service_id=12242 and name="speed" <br>

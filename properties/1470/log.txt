@@ -1,0 +1,1 @@
+2020-09-17 12:52:38 danielj: deleted service 8861 TV <br>2020-09-17 12:52:41 danielj: deleted service 8862 INT <br>2022-06-26 14:09:52 tiagog: update service_attributes set value="41" where service_id=2015 and name="speed" <br>

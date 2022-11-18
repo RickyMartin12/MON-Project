@@ -1,0 +1,1 @@
+2020-04-21 14:35:27 carlosr: deleted connection 3193 GPON, equip  and its services <br>2020-04-22 14:55:58 carlosr: connection ETH added with equipment  <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 5589 as it was assigned to property BAV318 <br>

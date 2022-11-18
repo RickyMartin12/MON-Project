@@ -1,0 +1,1 @@
+2022-08-18 11:27:53 mariov: insert into service_attributes (service_id,name,value,date) values (2485,"bridge_port","1","2022-08-18") <br>

@@ -1,0 +1,1 @@
+2022-02-13 13:12:52 mariov: update service_attributes set value="43" where service_id=1662 and name="speed" <br>2022-02-13 13:12:52 mariov: update service_attributes set value="14" where service_id=1662 and name="prof_up" <br>2022-02-13 13:12:53 mariov: update service_attributes set value="14" where service_id=1662 and name="prof_down" <br>

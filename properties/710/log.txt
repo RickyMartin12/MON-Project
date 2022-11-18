@@ -1,0 +1,1 @@
+2022-02-15 12:18:32 mariov: update service_attributes set value="41" where service_id=16778 and name="speed" <br>2022-02-15 12:18:32 mariov: update service_attributes set value="" where service_id=16778 and name="wifi_ssid" <br>

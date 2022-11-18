@@ -1,0 +1,1 @@
+2019-05-28 12:00:32 tiagog: connection GPON added with equipment ZNTS0392F999 <br>2021-12-23 16:28:02 mariov: insert into service_attributes (service_id,name,value,date) values (11126,"bridge_port","4","2021-12-23") <br>

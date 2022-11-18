@@ -1,0 +1,1 @@
+2022-03-15 16:21:41 danielj: deleted modem  from connection 3020 as it was assigned to property BAV318 <br>2022-03-25 15:10:48 davidj: update service_attributes set value="9" where service_id=12554 and name="speed" <br>2022-07-25 12:30:51 mariov: update service_attributes set value="2" where service_id=12555 and name="phn_port" <br>

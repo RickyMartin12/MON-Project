@@ -1,0 +1,1 @@
+2021-09-23 16:29:57 pedrot: update service_attributes set value="10" where service_id=2332 and name="speed" <br>2021-09-23 16:30:41 pedrot: update service_attributes set value="0" where service_id=2332 and name="wifi" <br>2021-09-23 16:30:41 pedrot: update service_attributes set value="lzr203qdl" where service_id=2332 and name="wifi_key" <br>

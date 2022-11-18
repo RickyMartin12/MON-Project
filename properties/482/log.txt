@@ -1,0 +1,1 @@
+2022-06-16 09:32:16 mariov: update service_attributes set value="10" where service_id=4603 and name="speed" <br>2022-06-16 09:33:53 mariov: insert into service_attributes (service_id,name,value,date) values (17787,"bridge_port","1","2022-06-16") <br>2022-06-17 14:26:08 mariov: deleted service 4604 PHN <br>

@@ -1,0 +1,1 @@
+2019-05-22 18:44:26 carlosr: connection GPON added with equipment ZNTS0392FA87<br>2019-05-22 18:45:39 carlosr: deleted connection 4442 GPON, equip ZNTS0392F3B7 and its services  id 10749type TV id 10750type INT<br>2019-06-15 carlosr: property moved INT to vlan10012022-03-15 16:21:42 danielj: deleted modem  from connection 3411 as it was assigned to property BAV318 <br>

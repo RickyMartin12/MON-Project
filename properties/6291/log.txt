@@ -1,0 +1,1 @@
+2021-10-04 17:48:16 laurop: update service_attributes set value="Lazer_B104" where service_id=15981 and name="wifi_ssid" <br>2022-04-17 12:41:11 pedrot: update service_attributes set value="33" where service_id=15981 and name="speed" <br>

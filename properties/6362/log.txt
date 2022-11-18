@@ -1,0 +1,1 @@
+2021-11-10 17:46:01 mariov: update service_attributes set value="liwi090572" where service_id=16169 and name="wifi_key" <br>2021-11-10 18:12:55 mariov: insert into service_attributes (service_id,name,value,date) values (16169,"portfw_id","IBC","2021-11-10") <br>2022-04-20 09:54:22 mariov: update service_attributes set value="2" where service_id=17263 and name="phn_port" <br>

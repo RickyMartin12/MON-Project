@@ -1,0 +1,1 @@
+2022-07-27 15:55:23 tiagog: update service_attributes set value="Lazer_CasaDasOsgas" where service_id=18229 and name="wifi_ssid" <br>

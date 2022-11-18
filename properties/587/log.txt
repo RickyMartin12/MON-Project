@@ -1,0 +1,1 @@
+2020-10-21 22:12:10 : deleted service 6768 PHN <br>2022-04-01 21:41:17 pedrot: update service_attributes set value="41" where service_id=6767 and name="speed" <br>2022-04-01 21:41:17 pedrot: update service_attributes set value="lzr011blv" where service_id=6767 and name="wifi_key" <br>

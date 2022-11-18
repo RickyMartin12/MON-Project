@@ -1,0 +1,1 @@
+2021-10-29 16:01:22 pedrot: update service_attributes set value="tudoazul" where service_id=16115 and name="wifi_key" <br>

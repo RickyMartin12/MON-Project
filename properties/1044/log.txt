@@ -1,0 +1,1 @@
+2022-06-06 09:33:54 mariov: insert into service_attributes (service_id,name,value,date) values (4726,"portfw_id","56","2022-06-06") <br>2022-06-06 10:37:50 mariov: update service_attributes set value="214" where service_id=4726 and name="portfw_id" <br>

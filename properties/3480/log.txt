@@ -1,0 +1,1 @@
+2022-10-04 14:08:08 ricardop: All Services on connection number <b>3480</b> was suspended on date <b>2022-10-04</b><br>2022-10-04 14:08:20 ricardop: All Services on connection number <b>3480</b> was reactivated on date <b>2022-10-04</b><br>

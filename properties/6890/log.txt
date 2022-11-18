@@ -1,0 +1,1 @@
+2022-03-11 12:07:07 pedrot: update service_attributes set value="Lazer_E" where service_id=17002 and name="wifi_ssid" <br>2022-03-11 12:07:07 pedrot: update service_attributes set value="Emefer68" where service_id=17002 and name="wifi_key" <br>

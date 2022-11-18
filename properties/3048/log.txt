@@ -1,0 +1,1 @@
+2019-06-15 carlosr: property moved INT to vlan10012022-03-15 16:21:41 danielj: deleted modem  from connection 3048 as it was assigned to property BAV318 <br>

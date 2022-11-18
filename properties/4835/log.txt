@@ -1,0 +1,1 @@
+2022-07-11 17:26:00 felisbelar: update service_attributes set value="41" where service_id=11649 and name="speed" <br>

@@ -1,0 +1,1 @@
+2022-02-15 13:19:48 davidj: update service_attributes set value="goldra30" where service_id=16780 and name="wifi_key" <br>

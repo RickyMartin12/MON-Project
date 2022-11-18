@@ -1,0 +1,1 @@
+2022-01-11 11:26:40 davidj: update service_attributes set value="Lazer_117" where service_id=16526 and name="wifi_ssid" <br>

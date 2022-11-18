@@ -1,0 +1,1 @@
+2021-09-22 15:55:06 tiagog: update service_attributes set value="sophal" where service_id=15902 and name="wifi_ssid" <br>2021-09-22 15:55:06 tiagog: update service_attributes set value="123456789" where service_id=15902 and name="wifi_key" <br>

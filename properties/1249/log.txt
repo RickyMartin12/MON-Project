@@ -1,0 +1,1 @@
+2019-07-11 10:14:20 davida: connection GPON added with equipment ZNTS03969B04<br>2021-12-09 20:14:26 mariov: update service_attributes set value="9" where service_id=11415 and name="speed" <br>

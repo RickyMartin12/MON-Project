@@ -1,0 +1,1 @@
+2021-11-16 12:15:56 tiagog: update service_attributes set value="QuintadaAldeia" where service_id=16190 and name="wifi_ssid" <br>2021-11-16 12:19:03 tiagog: update service_attributes set value="LexMoon_1809" where service_id=16190 and name="wifi_key" <br>

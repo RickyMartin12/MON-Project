@@ -1,0 +1,1 @@
+2022-05-31 15:12:07 mariov: update service_attributes set value="Lazer434A" where service_id=5113 and name="wifi_ssid" <br>2022-06-01 12:51:47 pedrot: update service_attributes set value="Lazer_434A" where service_id=5113 and name="wifi_ssid" <br>

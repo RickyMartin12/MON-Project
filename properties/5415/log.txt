@@ -1,0 +1,1 @@
+2021-10-25 15:57:24 laurop: update service_attributes set value="8" where service_id=13522 and name="speed" <br>2021-10-25 15:57:24 laurop: update service_attributes set value="Antonio" where service_id=13522 and name="wifi_ssid" <br>2021-10-25 15:57:24 laurop: update service_attributes set value="antonio205" where service_id=13522 and name="wifi_key" <br>

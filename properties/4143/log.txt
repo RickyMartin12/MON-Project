@@ -1,0 +1,1 @@
+2022-04-04 11:38:05 tiagog: update service_attributes set value="0" where service_id=8667 and name="wifi" <br>

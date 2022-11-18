@@ -1,0 +1,1 @@
+2022-05-25 10:05:48 pedrot: update service_attributes set value="Natasha93" where service_id=16055 and name="wifi_ssid" <br>2022-05-25 10:05:48 pedrot: update service_attributes set value="CasaKama" where service_id=16055 and name="wifi_key" <br>

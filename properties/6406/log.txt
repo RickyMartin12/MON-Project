@@ -1,0 +1,1 @@
+2021-11-24 12:16:01 mariov: update service_attributes set value="tavares9" where service_id=16240 and name="wifi_key" <br>

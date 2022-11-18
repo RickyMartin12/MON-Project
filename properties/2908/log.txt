@@ -1,0 +1,1 @@
+2021-11-15 11:32:37 tiagog: deleted modem 1CABC003D3E0 from connection 2908 as it was assigned to property VBA015 <br>2022-03-15 16:21:41 danielj: deleted modem  from connection 2908 as it was assigned to property BAV318 <br>

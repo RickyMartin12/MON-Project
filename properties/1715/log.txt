@@ -1,0 +1,1 @@
+2022-05-14 20:14:13 pedrot: update service_attributes set value="264_BGV" where service_id=15095 and name="wifi_ssid" <br>

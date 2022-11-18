@@ -1,0 +1,1 @@
+2020-10-08 18:00:42 brunoc: deleted service 6110 PHN <br>2022-03-31 08:44:43 davidj: update service_attributes set value="41" where service_id=6109 and name="speed" <br>

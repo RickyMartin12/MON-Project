@@ -1,0 +1,1 @@
+2022-03-10 16:59:18 tiagog: update service_attributes set value="" where service_id=16995 and name="speed" <br>2022-03-10 16:59:18 tiagog: update service_attributes set value="1024" where service_id=16995 and name="vlan" <br>

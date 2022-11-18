@@ -1,0 +1,1 @@
+2020-03-26 15:53:05 brunoc: deleted service 3081 PHN <br>2020-09-04 18:16:02 tiagog: deleted service 3079 TV <br>2020-09-04 18:16:09 tiagog: deleted service 3080 INT <br>2022-06-26 14:48:28 tiagog: update service_attributes set value="41" where service_id=14200 and name="speed" <br>

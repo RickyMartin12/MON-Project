@@ -1,0 +1,1 @@
+2019-08-14 15:53:37 tiagog: deleted service 4615 PHN <br>2022-08-17 18:18:28 tiagog: update service_attributes set value="42" where service_id=4614 and name="speed" <br>2022-08-19 14:11:19 pedrot: deleted service 4613 TV <br>

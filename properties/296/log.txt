@@ -1,0 +1,1 @@
+2020-09-29 16:34:58 : deleted service 7044 PHN <br>2022-04-30 15:53:02 mariov: update service_attributes set value="9" where service_id=7043 and name="speed" <br>

@@ -1,0 +1,1 @@
+2022-06-28 16:42:44 pedrot: update service_attributes set value="1001" where service_id=15830 and name="vlan" <br>2022-06-28 16:42:44 pedrot: update service_attributes set value="Lazer29" where service_id=15830 and name="wifi_ssid" <br>

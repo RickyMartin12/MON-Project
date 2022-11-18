@@ -1,0 +1,1 @@
+2022-03-15 16:21:43 danielj: deleted modem  from connection 6453 as it was assigned to property BAV318 <br>2022-10-31 11:12:03 ricardop: Insert FWA CPE <b>E4415</b> antenna <b>Goldra_east_right</b> and model <b>ltulite</b> on connection number <b>6453</b><br>2022-10-31 11:12:03 ricardop: Service type 'INT' was insert successfully on connection number <b>6453</b><br>

@@ -1,0 +1,1 @@
+2022-03-15 16:21:42 danielj: deleted modem  from connection 3296 as it was assigned to property BAV318 <br>2022-04-11 15:15:59 tiagog: update service_attributes set value="33" where service_id=10501 and name="speed" <br>2022-04-26 09:51:50 pedrot: deleted service 10500 TV <br>

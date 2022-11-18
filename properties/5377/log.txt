@@ -1,0 +1,1 @@
+2020-09-16 18:07:55 tiagog: deleted service 13709 INT <br>2022-08-05 15:21:43 tiagog: insert into service_attributes (service_id,name,value,date) values (13535,"portfw_id","167","2022-08-05") <br>2022-08-05 15:22:56 tiagog: update service_attributes set value="mus103alm" where service_id=18306 and name="wifi_key" <br>

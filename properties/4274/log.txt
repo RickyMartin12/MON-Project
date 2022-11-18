@@ -1,0 +1,1 @@
+2022-06-11 10:07:59 mariov: update service_attributes set value="Hideaways" where service_id=9089 and name="wifi_key" <br>

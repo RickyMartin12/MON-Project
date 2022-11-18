@@ -1,0 +1,1 @@
+2021-03-15 14:08:46 pedrot: deleted service 14487 INT <br>2022-05-09 19:23:54 pedrot: insert into service_attributes (service_id,name,value,date) values (8859,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/imolgj7c/dashboard","2022-05-09") <br>

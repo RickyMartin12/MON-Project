@@ -1,0 +1,1 @@
+2022-01-14 15:12:21 mariov: insert into service_attributes (service_id,name,value,date) values (6414,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/zodeyahl/devices/list/1/100/uap","2022-01-14") <br>2022-01-20 13:08:43 davidj: update service_attributes set value="41" where service_id=6414 and name="speed" <br>

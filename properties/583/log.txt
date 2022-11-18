@@ -1,0 +1,1 @@
+2021-10-14 15:47:24 laurop: update service_attributes set value="101" where service_id=4249 and name="vlan" <br>2022-01-07 09:53:02 davidj: update service_attributes set value="41" where service_id=4249 and name="speed" <br>

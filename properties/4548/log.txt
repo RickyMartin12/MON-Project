@@ -1,0 +1,1 @@
+2022-04-14 10:44:50 mariov: insert into service_attributes (service_id,name,value,date) values (11181,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/fuxswyva/devices/list/1/100/uap","2022-04-14") <br>2022-04-28 12:12:07 tiagog: update service_attributes set value="42" where service_id=11181 and name="speed" <br>

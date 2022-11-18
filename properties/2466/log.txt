@@ -1,0 +1,1 @@
+2020-04-21 03:51:41 carlosr: connection ETH added with equipment  <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 5416 as it was assigned to property BAV318 <br>

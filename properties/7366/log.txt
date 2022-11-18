@@ -1,0 +1,1 @@
+<b>Date and Hour:</b> 2022-08-17 09:50:49 <b>danielj</b> - connection GPON added with equipment ZNTS777778888<br><b>Date and Hour:</b> 2022-08-17 09:51:11 <b>danielj</b> - connection FWA added with equipment E1728831<br>

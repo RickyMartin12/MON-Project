@@ -1,0 +1,1 @@
+2022-03-29 11:18:03 davidj: update service_attributes set value="" where service_id=17112 and name="speed" <br>2022-03-29 11:18:03 davidj: update service_attributes set value="VodaFone" where service_id=17112 and name="wifi_ssid" <br>2022-03-29 11:18:03 davidj: update service_attributes set value="1574459276" where service_id=17112 and name="wifi_key" <br>

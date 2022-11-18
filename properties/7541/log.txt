@@ -1,0 +1,1 @@
+2022-08-17 17:14:06 tiagog: update service_attributes set value="Casa_Baguinho" where service_id=18411 and name="wifi_ssid" <br>

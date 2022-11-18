@@ -1,0 +1,1 @@
+2022-03-25 11:55:39 mariov: update service_attributes set value="Lazer_Pinto-e-Adriana" where service_id=17091 and name="wifi_ssid" <br>2022-03-25 11:55:39 mariov: update service_attributes set value="Adriana21" where service_id=17091 and name="wifi_key" <br>

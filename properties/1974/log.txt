@@ -1,0 +1,1 @@
+2022-06-30 11:49:27 tiagog: update service_attributes set value="66" where service_id=15658 and name="speed" <br>2022-07-31 09:03:16 tiagog: update service_attributes set value="Lazer977AA" where service_id=15658 and name="wifi_ssid" <br>2022-07-31 09:03:16 tiagog: update service_attributes set value="JAM195VDL" where service_id=15658 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2021-12-14 17:29:01 mariov: update service_attributes set value="33" where service_id=16352 and name="speed" <br>2022-01-21 14:37:02 pedrot: insert into service_attributes (service_id,name,value,date) values (16352,"unifi_site","https://89.31.231.11:8443/manage/site/da7b0pnx/dashboard","2022-01-21") <br>

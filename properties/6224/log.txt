@@ -1,0 +1,1 @@
+2021-12-20 15:42:16 davidj: insert into service_attributes (service_id,name,value,date) values (15809,"portfw_id","58","2021-12-20") <br>2021-12-27 11:49:29 pedrot: update service_attributes set value="107" where service_id=15809 and name="vlan" <br>

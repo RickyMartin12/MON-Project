@@ -1,0 +1,1 @@
+2021-11-10 15:12:46 mariov: update service_attributes set value="229_BGV" where service_id=8096 and name="wifi_ssid" <br>2022-03-15 11:20:34 tiagog: update service_attributes set value="7" where service_id=17020 and name="speed" <br>

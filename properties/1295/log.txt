@@ -1,0 +1,1 @@
+2022-01-03 17:28:47 tiagog: update service_attributes set value="9" where service_id=1769 and name="speed" <br>2022-05-07 17:03:11 tiagog: insert into service_attributes (service_id,name,value,date) values (1769,"fixed_ip","89.31.224.25","2022-05-07") <br>

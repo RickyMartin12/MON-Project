@@ -1,0 +1,1 @@
+2022-03-28 14:48:21 pedrot: update service_attributes set value="41" where service_id=5701 and name="speed" <br>2022-03-28 14:48:21 pedrot: update service_attributes set value="lzr002oca" where service_id=5701 and name="wifi_key" <br>2022-04-25 11:59:46 mariov: update service_attributes set value="oce33awifi" where service_id=5701 and name="wifi_key" <br>

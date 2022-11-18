@@ -1,0 +1,1 @@
+2022-07-31 15:30:47 tiagog: update service_attributes set value="10" where service_id=10891 and name="speed" <br>2022-07-31 15:31:21 tiagog: update service_attributes set value="lzr063alm" where service_id=18255 and name="wifi_key" <br>2022-07-31 15:31:39 tiagog: deleted service 6975 TV <br>2022-07-31 15:31:47 tiagog: deleted service 6976 INT <br>

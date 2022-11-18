@@ -1,0 +1,1 @@
+2021-10-29 18:32:30 laurop: deleted service 5718 INT <br>2022-03-15 16:21:42 danielj: deleted modem  from connection 3488 as it was assigned to property BAV318 <br>

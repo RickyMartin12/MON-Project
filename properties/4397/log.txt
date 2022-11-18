@@ -1,0 +1,1 @@
+2019-06-15 carlosr: property moved INT to vlan10012021-12-29 09:21:19 pedrot: update service_attributes set value="1001" where service_id=10617 and name="vlan" <br>

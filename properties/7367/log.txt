@@ -1,0 +1,1 @@
+2022-08-24 16:52:57 emilianor: insert into service_attributes (service_id,name,value,date) values (18473,"unms_site","https://lazer.unmsapp.com/nms/endpoints/f4358291-863b-4896-9bc8-4c861747b4be","2022-08-24") <br>

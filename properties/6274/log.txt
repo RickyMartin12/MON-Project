@@ -1,0 +1,1 @@
+2021-12-20 18:30:39 danielj: update service_attributes set value="martinsbrazio8135" where service_id=16387 and name="wifi_key" <br>

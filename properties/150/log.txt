@@ -1,0 +1,1 @@
+2021-10-17 15:41:27 tiagog: update service_attributes set value="13" where service_id=7297 and name="speed" <br>2021-10-17 15:50:45 tiagog: update service_attributes set value="14" where service_id=7297 and name="speed" <br>2022-06-15 18:31:16 pedrot: update service_attributes set value="66" where service_id=7297 and name="speed" <br>

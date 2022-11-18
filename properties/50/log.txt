@@ -1,0 +1,1 @@
+2022-03-07 16:22:41 pedrot: insert into service_attributes (service_id,name,value,date) values (3922,"wifi_ssid","Lazer_32","2022-03-07") <br>2022-03-07 16:23:03 pedrot: insert into service_attributes (service_id,name,value,date) values (3922,"wifi_key","abl244qdl","2022-03-07") <br>

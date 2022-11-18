@@ -1,0 +1,1 @@
+2021-10-19 17:28:47 laurop: update service_attributes set value="1101" where service_id=16044 and name="vlan" <br>2021-10-19 17:33:21 laurop: update service_attributes set value="1011" where service_id=16044 and name="vlan" <br>

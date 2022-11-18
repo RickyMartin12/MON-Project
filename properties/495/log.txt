@@ -1,0 +1,1 @@
+2022-08-23 14:28:47 mariov: insert into service_attributes (service_id,name,value,date) values (3271,"dhcp_id","31","2022-08-23") <br>2022-08-23 14:35:12 mariov: insert into service_attributes (service_id,name,value,date) values (3271,"portfw_id","221","2022-08-23") <br>

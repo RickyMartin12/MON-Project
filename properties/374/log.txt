@@ -1,0 +1,1 @@
+2022-07-13 12:22:44 mariov: update service_attributes set value="66" where service_id=7304 and name="speed" <br>2022-07-13 12:22:51 mariov: deleted service 15812 INT <br>

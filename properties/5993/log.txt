@@ -1,0 +1,1 @@
+2021-12-11 12:43:02 pedrot: update service_attributes set value="Villa_Harmonika" where service_id=15162 and name="wifi_ssid" <br>2021-12-11 13:00:03 pedrot: insert into service_attributes (service_id,name,value,date) values (15162,"unifi_site","https://89.31.231.11:8443/manage/site/umbf7p6k/devices/list/1/50","2021-12-11") <br>

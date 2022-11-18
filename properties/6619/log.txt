@@ -1,0 +1,1 @@
+2022-02-22 17:14:20 mariov: update service_attributes set value="Cacao123" where service_id=16851 and name="wifi_key" <br>2022-02-22 17:18:17 mariov: insert into service_attributes (service_id,name,value,date) values (16851,"unifi_site","https://89.31.231.11:8443/manage/site/jn4gie30/dashboard","2022-02-22") <br>

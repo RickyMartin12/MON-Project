@@ -1,0 +1,3 @@
+2019-04-14 22:44:21 carlosr: connection GPON added with equipment ZNTS032B602E <br>
+2019-04-14 22:45:15 carlosr: connection GPON added with equipment ZNTS032B602E <br>
+2022-03-15 16:21:40 danielj: deleted modem  from connection 2523 as it was assigned to property BAV318 <br>

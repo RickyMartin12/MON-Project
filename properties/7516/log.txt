@@ -1,0 +1,1 @@
+2022-07-19 18:45:49 pedrot: insert into service_attributes (service_id,name,value,date) values (18071,"portfw_id","23","2022-07-19") <br>

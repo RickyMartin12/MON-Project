@@ -1,0 +1,1 @@
+2022-03-09 16:20:20 mariov: insert into service_attributes (service_id,name,value,date) values (15495,"unifi_site","https://89.31.231.11:8443/manage/site/j5zbv5f7/devices/list/1/100","2022-03-09") <br>2022-07-28 10:12:23 mariov: update service_attributes set value="41" where service_id=15495 and name="speed" <br>

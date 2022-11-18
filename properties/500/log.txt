@@ -1,0 +1,1 @@
+2020-01-20 09:44:09 tiagog: deleted service 12210 PHN <br>2021-09-30 12:38:19 tiagog: insert into service_attributes (service_id,name,value,date) values (5034,"portfw_profile","195","2021-09-30") <br>2022-01-16 17:20:24 davidj: update service_attributes set value="9" where service_id=5034 and name="speed" <br>

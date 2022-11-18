@@ -1,0 +1,1 @@
+2022-07-08 12:43:26 carlosr: update service_attributes set value="21" where service_id=18027 and name="vlan" <br>2022-07-08 12:43:26 carlosr: insert into service_attributes (service_id,name,value,date) values (18027,"bridge_port","4","2022-07-08") <br>2022-07-09 10:44:10 pedrot: update service_attributes set value="C05TATERRA" where service_id=18021 and name="wifi_key" <br>

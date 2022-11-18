@@ -1,0 +1,1 @@
+2022-03-15 16:21:40 danielj: deleted modem  from connection 1900 as it was assigned to property BAV318 <br>2022-07-07 15:10:08 felisbelar: update service_attributes set value="9" where service_id=8899 and name="speed" <br>2022-07-07 15:10:08 felisbelar: update service_attributes set value="lzr415vdl" where service_id=8899 and name="wifi_key" <br>

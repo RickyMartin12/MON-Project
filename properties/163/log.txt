@@ -1,0 +1,1 @@
+2022-02-18 18:21:30 davidj: update service_attributes set value="41" where service_id=5454 and name="speed" <br>2022-02-18 18:27:47 davidj: update service_attributes set value="lzr004cav" where service_id=5454 and name="wifi_key" <br>

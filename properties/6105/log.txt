@@ -1,0 +1,1 @@
+2021-11-11 08:18:06 mariov: update service_attributes set value="1002" where service_id=15408 and name="vlan" <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 6820 as it was assigned to property BAV318 <br>

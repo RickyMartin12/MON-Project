@@ -1,0 +1,1 @@
+2022-08-05 11:59:32 tiagog: update service_attributes set value="Lazer123_UK" where service_id=18300 and name="wifi_ssid" <br>2022-08-05 11:59:32 tiagog: update service_attributes set value="til134qdl" where service_id=18300 and name="wifi_key" <br>

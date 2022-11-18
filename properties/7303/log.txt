@@ -1,0 +1,1 @@
+2022-05-31 16:46:18 pedrot: update service_attributes set value="" where service_id=17656 and name="speed" <br>2022-05-31 16:46:18 pedrot: update service_attributes set value="1023" where service_id=17656 and name="vlan" <br>

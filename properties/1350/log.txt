@@ -1,0 +1,1 @@
+2022-05-23 20:09:42 felisbelar: update service_attributes set value="41" where service_id=1830 and name="speed" <br>2022-05-23 20:12:40 felisbelar: update service_attributes set value="7" where service_id=1830 and name="speed" <br>2022-05-26 18:42:43 felisbelar: update service_attributes set value="41" where service_id=1830 and name="speed" <br>

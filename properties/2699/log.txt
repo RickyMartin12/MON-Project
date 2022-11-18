@@ -1,0 +1,1 @@
+2021-07-26 15:53:02 mariov: deleted service 4108 PHN <br>2022-07-25 16:08:40 mariov: update service_attributes set value="33" where service_id=4107 and name="speed" <br>2022-07-25 16:08:40 mariov: update service_attributes set value="lzr551vdl" where service_id=4107 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2020-02-05 17:19:51 danielj: deleted connection 4306 GPON, equip ZNTS038DB929 and its services  id 10454type INT<br>

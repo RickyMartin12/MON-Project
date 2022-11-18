@@ -1,0 +1,1 @@
+2019-10-16 10:29:37 tiagog: deleted service 11970 TV <br>2022-05-16 17:12:09 pedrot: update service_attributes set value="113" where service_id=10593 and name="vlan" <br>

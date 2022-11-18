@@ -1,0 +1,1 @@
+2022-06-15 16:13:43 pedrot: update service_attributes set value="ZZBing01" where service_id=17780 and name="wifi_key" <br>2022-06-15 16:17:16 pedrot: insert into service_attributes (service_id,name,value,date) values (17780,"unifi_site","https://89.31.231.11:8443/manage/site/uiwynd15/dashboard","2022-06-15") <br>

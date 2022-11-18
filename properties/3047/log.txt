@@ -1,0 +1,1 @@
+2019-05-13 15:56:23 tiagog: connection GPON added with equipment ZNTS<br>2022-03-15 16:21:41 danielj: deleted modem  from connection 3047 as it was assigned to property BAV318 <br>

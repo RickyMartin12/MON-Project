@@ -1,0 +1,1 @@
+2022-04-13 10:46:35 mariov: update service_attributes set value="66" where service_id=7286 and name="speed" <br>2022-04-27 12:31:15 tiagog: update service_attributes set value="LazerCTV-152" where service_id=17346 and name="wifi_ssid" <br>2022-04-27 12:31:15 tiagog: update service_attributes set value="hafoty46" where service_id=17346 and name="wifi_key" <br>

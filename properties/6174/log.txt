@@ -1,0 +1,1 @@
+2022-01-13 16:52:10 pedrot: update service_attributes set value="casaverde207A" where service_id=15705 and name="wifi_key" <br>

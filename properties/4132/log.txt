@@ -1,0 +1,1 @@
+2020-02-05 12:14:42 adams: connection GPON added with equipment ZNTS0396991A<br>2020-02-05 12:19:25 adams: deleted connection 4132 GPON, equip  and its services <br>2022-01-17 21:27:25 pedrot: update service_attributes set value="Lazer_C07" where service_id=14785 and name="wifi_ssid" <br>

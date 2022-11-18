@@ -1,0 +1,1 @@
+2021-12-10 15:00:07 mariov: update service_attributes set value="9" where service_id=8746 and name="speed" <br>

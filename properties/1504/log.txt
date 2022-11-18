@@ -1,0 +1,1 @@
+2022-07-18 17:09:53 felisbelar: update service_attributes set value="lrz1093vdl" where service_id=2273 and name="wifi_key" <br>2022-07-18 17:09:53 felisbelar: update service_attributes set value="1" where service_id=2273 and name="wifi_profile" <br>2022-07-26 18:12:00 tiagog: update service_attributes set value="9" where service_id=2273 and name="speed" <br>

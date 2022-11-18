@@ -1,0 +1,1 @@
+2022-07-08 17:04:50 pedrot: update service_attributes set value="1001" where service_id=1937 and name="vlan" <br>

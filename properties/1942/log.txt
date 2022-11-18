@@ -1,0 +1,1 @@
+2020-09-17 18:05:21 danielj: deleted service 10534 TV <br>2020-09-17 18:05:23 danielj: deleted service 10535 INT <br>2022-04-12 15:28:34 pedrot: insert into service_attributes (service_id,name,value,date) values (2542,"unifi_site","https://89.31.231.11:8443/manage/site/dddn81kl/dashboard","2022-04-12") <br>

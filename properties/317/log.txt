@@ -1,0 +1,1 @@
+2022-01-04 11:05:37 pedrot: update service_attributes set value=""Lazer CableTV 14" where service_id=4657 and name="wifi_ssid" <br>2022-01-04 11:05:37 pedrot: insert into service_attributes (service_id,name,value,date) values (4657,"portfw_id","132","2022-01-04") <br>

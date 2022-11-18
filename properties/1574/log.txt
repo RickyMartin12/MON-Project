@@ -1,0 +1,1 @@
+2022-04-27 18:44:45 mariov: deleted modem 84948C15AB60 from connection 1574 as it was assigned to property DDR005 <br>

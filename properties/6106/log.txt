@@ -1,0 +1,1 @@
+2021-11-11 08:21:16 mariov: update service_attributes set value="1002" where service_id=15405 and name="vlan" <br>2022-06-22 18:54:16 felisbelar: update service_attributes set value="33" where service_id=15405 and name="speed" <br>

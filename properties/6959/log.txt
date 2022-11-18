@@ -1,0 +1,1 @@
+2022-08-08 14:58:52 felisbelar: update service_attributes set value="Casa de Carroca" where service_id=18264 and name="wifi_ssid" <br>2022-08-08 14:58:52 felisbelar: update service_attributes set value="DavidElaine" where service_id=18264 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2022-01-21 14:47:12 davidj: update service_attributes set value="Village17" where service_id=5086 and name="wifi_ssid" <br>2022-05-12 17:04:36 mariov: update service_attributes set value="0" where service_id=5086 and name="wifi" <br>

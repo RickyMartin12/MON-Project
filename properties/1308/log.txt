@@ -1,0 +1,1 @@
+2022-05-23 11:37:37 pedrot: update service_attributes set value="9" where service_id=1781 and name="speed" <br>2022-05-23 11:37:56 pedrot: update service_attributes set value="lzr320vdl" where service_id=1781 and name="wifi_key" <br>2022-05-23 11:38:30 pedrot: deleted service 1782 PHN <br>

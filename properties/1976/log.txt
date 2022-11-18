@@ -1,0 +1,1 @@
+2019-08-19 17:23:08 danielj: deleted connection 4938 GPON, equip ZNTS and its services  id 11752type TV id 11753type INT<br>2019-08-19 17:23:33 danielj: connection GPON added with equipment ZNTS0392BF33<br>

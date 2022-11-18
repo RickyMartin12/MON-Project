@@ -1,0 +1,1 @@
+2021-10-11 12:36:30 danielj: update service_attributes set value="106" where service_id=3085 and name="vlan" <br>2021-11-24 10:25:25 carlosr: update service_attributes set value="lazerspeed" where service_id=3085 and name="wifi_key" <br>

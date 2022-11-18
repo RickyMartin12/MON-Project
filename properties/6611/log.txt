@@ -1,0 +1,1 @@
+2022-01-24 12:41:45 mariov: insert into service_attributes (service_id,name,value,date) values (16564,"wifi_ssid","Lazer_MoradiaA_5G","2022-01-24") <br>

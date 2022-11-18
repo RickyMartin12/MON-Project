@@ -1,0 +1,1 @@
+2022-06-07 21:41:03 felisbelar: update service_attributes set value="66" where service_id=7257 and name="speed" <br>2022-06-14 17:31:01 pedrot: update service_attributes set value="cpb073biv" where service_id=17776 and name="wifi_key" <br>2022-06-14 17:46:06 pedrot: update service_attributes set value="cpb073blv" where service_id=17776 and name="wifi_key" <br>

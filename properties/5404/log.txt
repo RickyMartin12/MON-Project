@@ -1,0 +1,1 @@
+2022-07-28 16:35:20 tiagog: update service_attributes set value="9" where service_id=13498 and name="speed" <br>

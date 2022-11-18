@@ -1,0 +1,1 @@
+2022-01-10 11:44:59 davidj: update service_attributes set value="1" where service_id=2355 and name="wifi" <br>

@@ -1,0 +1,1 @@
+2022-04-26 13:27:57 mariov: update service_attributes set value="Carpe_Diem" where service_id=16175 and name="wifi_ssid" <br>2022-05-09 16:03:34 mariov: update service_attributes set value="41" where service_id=16175 and name="speed" <br>2022-07-29 15:35:08 tiagog: update service_attributes set value="PBX" where service_id=16610 and name="phn_port" <br>

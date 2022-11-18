@@ -1,0 +1,1 @@
+2019-09-16 10:09:01 tiagog: deleted service 5165 PHN <br>2022-06-27 19:29:16 mariov: insert into service_attributes (service_id,name,value,date) values (5164,"fixed_ip","89.31.226.22","2022-06-27") <br>

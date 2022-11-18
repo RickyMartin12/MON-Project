@@ -1,0 +1,1 @@
+2022-03-09 16:12:10 mariov: update service_attributes set value="Lazer_X" where service_id=16988 and name="wifi_ssid" <br>

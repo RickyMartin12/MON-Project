@@ -1,0 +1,1 @@
+2022-04-20 13:02:44 tiagog: update service_attributes set value="43" where service_id=12536 and name="speed" <br>2022-06-12 11:32:40 mariov: update service_attributes set value="0" where service_id=12536 and name="wifi" <br>

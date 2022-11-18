@@ -1,0 +1,1 @@
+2019-04-16 10:54:06 carlosr: deleted service 8320 PHN <br>2021-11-04 11:13:55 mariov: update service_attributes set value="festiveham" where service_id=16138 and name="wifi_key" <br>

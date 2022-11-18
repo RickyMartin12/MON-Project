@@ -1,0 +1,1 @@
+2019-11-12 13:01:01 brunob: deleted connection 5087 GPON, equip ZNTS0358F27A and its services  id 12044type TV id 12045type INT<br>2019-11-12 13:02:07 brunob: connection GPON added with equipment ZNTS0358F27A <br>

@@ -1,0 +1,1 @@
+2022-03-30 15:23:34 davidj: update service_attributes set value="Casasetima" where service_id=17131 and name="wifi_ssid" <br>2022-03-30 15:23:34 davidj: update service_attributes set value="Blairgowrie01250€$99 " where service_id=17131 and name="wifi_key" <br>

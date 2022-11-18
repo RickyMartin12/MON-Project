@@ -1,0 +1,1 @@
+2020-10-08 18:04:26 brunoc: deleted service 5130 PHN <br>2021-12-06 19:10:50 mariov: update service_attributes set value="41" where service_id=5129 and name="speed" <br>

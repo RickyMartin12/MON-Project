@@ -1,0 +1,1 @@
+2022-03-18 17:03:48 davidj: update service_attributes set value="Casa_Denisa" where service_id=17048 and name="wifi_ssid" <br>2022-03-18 17:04:32 davidj: update service_attributes set value="Casa Denisa" where service_id=17048 and name="wifi_ssid" <br>

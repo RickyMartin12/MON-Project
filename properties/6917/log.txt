@@ -1,0 +1,1 @@
+2022-03-16 18:25:44 mariov: update service_attributes set value="Lazer_Quinta-Quigima" where service_id=17040 and name="wifi_ssid" <br>2022-03-23 16:11:02 davidj: update service_attributes set value="9" where service_id=17040 and name="speed" <br>2022-03-23 16:11:02 davidj: update service_attributes set value="0" where service_id=17040 and name="wifi" <br>

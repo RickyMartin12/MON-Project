@@ -1,0 +1,1 @@
+2021-12-16 18:12:32 tiagog: deleted service 16375 INT <br>2021-12-16 18:14:51 tiagog: deleted connection 7375 GPON, equip ZNTS12345600 and its services <br>2022-02-05 19:21:33 davidj: update service_attributes set value="9" where service_id=16636 and name="speed" <br>

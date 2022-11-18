@@ -1,0 +1,1 @@
+2021-06-25 12:25:36 danielj: deleted service 12410 PHN <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 5262 as it was assigned to property BAV318 <br>

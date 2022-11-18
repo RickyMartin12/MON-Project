@@ -1,0 +1,1 @@
+2022-04-26 12:58:30 pedrot: insert into service_attributes (service_id,name,value,date) values (16151,"unifi_site","https://89.31.231.11:8443/manage/site/l71mozdg/dashboard","2022-04-26") <br>

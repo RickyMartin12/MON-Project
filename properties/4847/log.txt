@@ -1,0 +1,1 @@
+2019-10-15 10:31:36 carlosr: connection DARKF added with equipment  <br>2021-12-03 17:39:08 danielj: deleted service 12835 INT <br>2021-12-03 17:39:20 danielj: deleted connection 5049 DARKF, equip  and its services <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 4882 as it was assigned to property BAV318 <br>

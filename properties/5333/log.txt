@@ -1,0 +1,1 @@
+2022-07-27 21:13:27 tiagog: update service_attributes set value="33" where service_id=13586 and name="speed" <br>2022-07-27 21:14:19 tiagog: insert into service_attributes (service_id,name,value,date) values (13586,"portfw_id","1","2022-07-27") <br>

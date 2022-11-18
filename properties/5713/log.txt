@@ -1,0 +1,1 @@
+2022-05-20 10:28:23 pedrot: insert into service_attributes (service_id,name,value,date) values (14147,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/xz65f6tt/dashboard","2022-05-20") <br>2022-05-26 18:57:31 felisbelar: deleted service 14146 TV <br>2022-08-07 12:31:06 mariov: update service_attributes set value="33" where service_id=14147 and name="speed" <br>

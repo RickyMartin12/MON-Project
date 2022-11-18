@@ -1,0 +1,1 @@
+2022-06-21 18:20:45 felisbelar: update service_attributes set value="110" where service_id=17333 and name="vlan" <br>2022-06-21 19:10:36 felisbelar: update service_attributes set value="900100200" where service_id=17333 and name="wifi_key" <br>2022-06-21 19:30:27 felisbelar: update service_attributes set value="202_CP" where service_id=17333 and name="wifi_ssid" <br>

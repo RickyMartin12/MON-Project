@@ -1,0 +1,1 @@
+2021-09-24 12:30:15 pedrot: update service_attributes set value="VillaHelen" where service_id=15921 and name="wifi_ssid" <br>2021-09-24 17:46:54 tiagog: update service_attributes set value="Monicah0991$" where service_id=15921 and name="wifi_key" <br>

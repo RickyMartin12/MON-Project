@@ -1,0 +1,1 @@
+2022-07-19 10:40:37 pedrot: update service_attributes set value="Vila_Fonte" where service_id=18106 and name="wifi_ssid" <br>

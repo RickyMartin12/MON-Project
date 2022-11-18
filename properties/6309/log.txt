@@ -1,0 +1,1 @@
+2021-10-12 11:37:30 tiagog: update service_attributes set value="Physou2303" where service_id=16009 and name="wifi_key" <br>

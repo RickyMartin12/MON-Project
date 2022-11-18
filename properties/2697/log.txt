@@ -1,0 +1,1 @@
+2022-03-15 16:21:40 danielj: deleted modem  from connection 2697 as it was assigned to property BAV318 <br>2022-11-02 08:38:48 ricardop: Update Property on number <b>2697</b> on owner <b>6875</b><br>2022-11-02 08:38:48 ricardop: Insert ONT <b>E17823479</b>  for ont <b>1-10-4-54</b> and olt <b>1</b> and model <b>zhone-2428</b> on connection number <b>2697</b><br>

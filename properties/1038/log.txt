@@ -1,0 +1,1 @@
+2021-10-18 16:20:16 danielj: update service_attributes set value="Lazer Cable 983A" where service_id=7550 and name="wifi_ssid" <br>2021-10-18 16:20:16 danielj: update service_attributes set value="bnn187vdl" where service_id=7550 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2022-07-27 18:45:31 tiagog: update service_attributes set value="9" where service_id=5010 and name="speed" <br>2022-07-27 18:45:32 tiagog: update service_attributes set value="82" where service_id=5010 and name="portfw_id" <br>

@@ -1,0 +1,1 @@
+2022-04-30 16:00:41 mariov: update service_attributes set value="9" where service_id=13866 and name="speed" <br>2022-10-10 14:53:30 ricardop: All Services on connection number <b>6016</b> was reactivated on date <b>2022-10-10</b><br>

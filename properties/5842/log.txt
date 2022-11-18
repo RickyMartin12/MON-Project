@@ -1,0 +1,1 @@
+2021-11-13 15:41:03 tiagog: insert into service_attributes (service_id,name,value,date) values (14672,"portfw_id","55","2021-11-13") <br>2022-01-27 12:58:56 mariov: update service_attributes set value="7" where service_id=14672 and name="speed" <br>

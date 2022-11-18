@@ -1,0 +1,1 @@
+2019-08-22 16:30:52 davida: connection GPON added with equipment ZNTS03879D01 <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 1091 as it was assigned to property BAV318 <br>

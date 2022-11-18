@@ -1,0 +1,1 @@
+2021-11-01 17:14:33 laurop: update service_attributes set value="331_BGV" where service_id=14470 and name="wifi_ssid" <br>2021-11-01 17:14:33 laurop: update service_attributes set value="78018590" where service_id=14470 and name="wifi_key" <br>2022-03-15 16:21:42 danielj: deleted modem  from connection 3912 as it was assigned to property BAV318 <br>

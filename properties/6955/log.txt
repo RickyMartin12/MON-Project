@@ -1,0 +1,1 @@
+2022-03-25 13:13:28 davidj: update service_attributes set value="conrad138" where service_id=17093 and name="wifi_key" <br>

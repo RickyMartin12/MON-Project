@@ -1,0 +1,1 @@
+2021-05-14 10:03:45 mariov: deleted service 5490 PHN <br>2022-08-10 17:31:59 tiagog: update service_attributes set value="9" where service_id=5489 and name="speed" <br>

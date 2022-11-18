@@ -1,0 +1,1 @@
+2022-06-30 20:59:32 mariov: update service_attributes set value="0" where service_id=8999 and name="wifi" <br>2022-06-30 21:03:58 mariov: insert into service_attributes (service_id,name,value,date) values (8999,"bridge_port","1","2022-06-30") <br>

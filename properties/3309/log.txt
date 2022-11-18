@@ -1,0 +1,1 @@
+2020-02-05 12:47:26 ruip: deleted service 5602 PHN <br>2021-12-30 19:29:23 mariov: update service_attributes set value="41" where service_id=5601 and name="speed" <br>

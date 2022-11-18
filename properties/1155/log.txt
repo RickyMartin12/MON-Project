@@ -1,0 +1,1 @@
+2020-04-01 14:40:44 carlosr: connection DARKF added with equipment  <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 1155 as it was assigned to property BAV318 <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 5332 as it was assigned to property BAV318 <br>

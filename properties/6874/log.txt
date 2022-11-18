@@ -1,0 +1,1 @@
+2022-03-11 15:20:33 mariov: update service_attributes set value="" where service_id=17003 and name="speed" <br>2022-03-11 15:20:33 mariov: update service_attributes set value="1024" where service_id=17003 and name="vlan" <br>

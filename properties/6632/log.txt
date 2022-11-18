@@ -1,0 +1,1 @@
+2022-06-19 17:55:46 pedrot: update service_attributes set value="" where service_id=16585 and name="speed" <br>2022-06-19 17:55:46 pedrot: insert into service_attributes (service_id,name,value,date) values (16585,"unifi_site","https://89.31.231.11:8443/manage/site/463wzlq0/dashboard","2022-06-19") <br>

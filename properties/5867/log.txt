@@ -1,0 +1,1 @@
+2021-09-13 23:03:59 carlosr: update service_attributes set value="1" where service_id=15698 and name="wifi" <br>2021-09-13 23:04:15 carlosr: update service_attributes set value="0" where service_id=15698 and name="wifi" <br>

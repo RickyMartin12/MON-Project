@@ -1,0 +1,1 @@
+2020-10-20 15:39:05 tiagog: deleted service 5687 PHN <br>2021-12-20 18:54:55 pedrot: update service_attributes set value="113" where service_id=5686 and name="vlan" <br>2022-07-06 15:11:33 tiagog: update service_attributes set value="9" where service_id=5686 and name="speed" <br>

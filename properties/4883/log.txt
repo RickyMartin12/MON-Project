@@ -1,0 +1,1 @@
+2022-03-24 10:50:16 davidj: update service_attributes set value="9" where service_id=11765 and name="speed" <br>

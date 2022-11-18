@@ -1,0 +1,1 @@
+2022-04-29 16:08:39 pedrot: update service_attributes set value="7" where service_id=5982 and name="speed" <br>2022-04-29 16:14:22 pedrot: update service_attributes set value="rockline2022" where service_id=5982 and name="wifi_key" <br>

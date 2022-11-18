@@ -1,0 +1,1 @@
+2019-08-02 16:20:38 danielj: deleted connection 3826 GPON, equip ZNTS03879CFD and its services  id 6757type TV id 6758type INT id 6759type PHN<br>

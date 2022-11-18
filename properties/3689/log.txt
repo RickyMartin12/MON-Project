@@ -1,0 +1,1 @@
+2020-07-08 22:11:42 tiagog: deleted service 6424 PHN <br>2022-05-26 15:52:44 mariov: update service_attributes set value="0" where service_id=6423 and name="wifi" <br>2022-06-29 12:23:00 tiagog: update service_attributes set value="41" where service_id=6423 and name="speed" <br>

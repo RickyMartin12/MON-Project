@@ -1,0 +1,1 @@
+2020-12-04 15:28:34 danielj: deleted connection 6093 GPON, equip  and its services <br>

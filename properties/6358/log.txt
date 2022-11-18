@@ -1,0 +1,1 @@
+2022-09-23 09:38:53 ricardop: Previous Equipment <b>f492bf2fd461</b> to <b>f492bf2fd40</b> on connection number <b>7204</b><br>2022-09-23 09:38:53 ricardop: Insert FWA CPE <b>f492bf2fd40</b> antenna <b>Picota_W</b> and model <b></b> on connection number <b>7204</b><br>

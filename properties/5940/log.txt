@@ -1,0 +1,1 @@
+2021-10-22 16:53:42 tiagog: update service_attributes set value="Kevlah1" where service_id=16065 and name="wifi_ssid" <br>2021-10-22 16:53:42 tiagog: update service_attributes set value="raven123" where service_id=16065 and name="wifi_key" <br>

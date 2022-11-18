@@ -1,0 +1,1 @@
+2022-05-12 17:31:04 tiagog: update service_attributes set value="385_BGV" where service_id=17515 and name="wifi_ssid" <br>2022-05-12 17:31:05 tiagog: update service_attributes set value="60002445" where service_id=17515 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2021-10-25 17:48:05 pedrot: update service_attributes set value="Safari49" where service_id=16079 and name="wifi_key" <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 101 as it was assigned to property BAV318 <br>

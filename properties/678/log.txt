@@ -1,0 +1,1 @@
+2022-08-02 10:10:45 emilianor: update service_attributes set value="1" where service_id=3429 and name="is_router" <br>2022-08-02 10:10:45 emilianor: update service_attributes set value="0" where service_id=3429 and name="bridge_port" <br>

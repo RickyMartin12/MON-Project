@@ -1,0 +1,1 @@
+2019-10-16 17:56:39 danielj: deleted service 5298 PHN <br>2022-02-21 17:34:51 danielj: update service_attributes set value="8" where service_id=5297 and name="speed" <br>2022-02-21 17:40:45 danielj: update service_attributes set value="103" where service_id=5297 and name="vlan" <br>2022-02-21 17:50:33 pedrot: deleted service 16843 PHN <br>

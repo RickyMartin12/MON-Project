@@ -1,0 +1,1 @@
+2022-04-04 17:27:49 pedrot: update service_attributes set value="14" where service_id=7416 and name="speed" <br>2022-04-04 17:27:49 pedrot: update service_attributes set value="LAZER_306A" where service_id=7416 and name="wifi_ssid" <br>2022-04-04 17:28:18 pedrot: update service_attributes set value="13" where service_id=7416 and name="speed" <br>

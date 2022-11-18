@@ -1,0 +1,1 @@
+2022-04-01 16:06:31 tiagog: deleted modem BC4DFB872240 from connection 2508 as it was assigned to property BAV048 <br>

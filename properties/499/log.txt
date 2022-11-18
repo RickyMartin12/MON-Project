@@ -1,0 +1,1 @@
+2021-09-16 11:34:52 danielj: update service_attributes set value="1" where service_id=4322 and name="phn_port" <br>

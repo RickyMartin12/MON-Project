@@ -1,0 +1,1 @@
+2022-09-30 14:57:14 ricardop: update service_attributes set value="" where service_id=18328 and name="speed" <br>2022-09-30 14:57:14 ricardop: insert into service_attributes (service_id,name,value,date) values (18328,"vlan","1233","2022-09-30") <br>

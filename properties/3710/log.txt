@@ -1,0 +1,1 @@
+2020-10-14 09:14:42 brunoc: deleted service 6454 PHN <br>2021-12-20 18:54:34 pedrot: update service_attributes set value="113" where service_id=6453 and name="vlan" <br>

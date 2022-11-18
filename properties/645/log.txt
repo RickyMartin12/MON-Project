@@ -1,0 +1,1 @@
+2022-01-17 18:49:19 davidj: update service_attributes set value="bellaan25" where service_id=2649 and name="wifi_ssid" <br>2022-01-17 18:49:19 davidj: update service_attributes set value="an25alleb" where service_id=2649 and name="wifi_key" <br>

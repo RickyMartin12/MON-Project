@@ -1,0 +1,1 @@
+2019-04-16 11:03:02 carlosr: deleted service 1890 PHN <br>2019-09-24 17:42:44 danielj: deleted service 8809 PHN <br>2022-08-04 13:37:11 tiagog: deleted service 1888 TV <br>2022-08-04 13:37:17 tiagog: deleted service 1889 INT <br>2022-08-04 13:38:09 tiagog: update service_attributes set value="43" where service_id=13387 and name="speed" <br>

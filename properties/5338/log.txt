@@ -1,0 +1,1 @@
+<b>Date and Hour:</b> 2022-08-10 09:17:52 <b>danielj</b> - Update Connection number <b>5717</b> on Equipment <b>ZNTS03A9DA2</b><br><b>Date and Hour:</b> 2022-08-10 09:17:52 <b>danielj</b> - Insert ONT <b>ZNTS03A9DA2</b> on connection number <b></b><br>

@@ -1,0 +1,1 @@
+2020-10-09 16:39:52 : deleted service 8521 PHN <br>2022-06-22 14:40:56 pedrot: update service_attributes set value="44" where service_id=8520 and name="speed" <br>2022-06-22 15:57:39 pedrot: update service_attributes set value="43" where service_id=8520 and name="speed" <br>

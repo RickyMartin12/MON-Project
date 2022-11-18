@@ -1,0 +1,1 @@
+2022-07-28 20:45:01 tiagog: update service_attributes set value="Camplow#13" where service_id=18145 and name="wifi_key" <br>

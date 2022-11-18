@@ -1,0 +1,1 @@
+2022-04-08 11:06:19 pedrot: update service_attributes set value="41" where service_id=13327 and name="speed" <br>2022-04-08 11:07:54 pedrot: insert into service_attributes (service_id,name,value,date) values (13327,"portfw_id","4","2022-04-08") <br>

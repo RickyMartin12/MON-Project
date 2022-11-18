@@ -1,0 +1,1 @@
+2020-09-17 18:03:08 danielj: deleted service 10426 TV <br>2020-09-17 18:03:11 danielj: deleted service 10427 INT <br>2022-08-11 09:32:04 tiagog: deleted service 18358 TV <br>2022-08-11 09:32:31 tiagog: update service_attributes set value="nds039viv" where service_id=18359 and name="wifi_key" <br>

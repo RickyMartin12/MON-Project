@@ -1,0 +1,1 @@
+2022-08-24 12:42:18 pedrot: insert into service_attributes (service_id,name,value,date) values (18458,"unms_site","https://lazer.unmsapp.com/nms/endpoints/b38877b4-2449-4317-8fe0-6fb3411362af","2022-08-24") <br>

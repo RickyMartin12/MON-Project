@@ -1,0 +1,1 @@
+2021-10-28 08:55:13 tiagog: deleted service 8528 PHN <br>2022-08-12 16:39:40 tiagog: update service_attributes set value="41" where service_id=5057 and name="speed" <br>

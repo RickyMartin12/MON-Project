@@ -1,0 +1,1 @@
+2022-01-14 18:49:44 mariov: update service_attributes set value="1011" where service_id=11960 and name="vlan" <br>

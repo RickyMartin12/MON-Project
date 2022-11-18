@@ -1,0 +1,1 @@
+2022-03-17 14:50:31 davidj: update service_attributes set value="41" where service_id=2466 and name="speed" <br>2022-04-09 15:35:22 mariov: update service_attributes set value="impact13" where service_id=2466 and name="wifi_key" <br>2022-04-09 15:41:03 mariov: update service_attributes set value="289005696" where service_id=2466 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2021-12-14 19:14:48 mariov: update service_attributes set value="Lazer_Hynes" where service_id=11357 and name="wifi_ssid" <br>2021-12-14 19:14:48 mariov: update service_attributes set value="123456789" where service_id=11357 and name="wifi_key" <br>2021-12-14 19:23:20 mariov: update service_attributes set value="0" where service_id=11357 and name="wifi" <br>

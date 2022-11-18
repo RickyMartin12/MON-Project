@@ -1,0 +1,1 @@
+2021-06-30 18:00:35 mariov: deleted service 15200 PHN <br>2021-11-25 17:31:06 tiagog: update service_attributes set value="102" where service_id=15199 and name="vlan" <br>2022-01-21 11:04:55 pedrot: update service_attributes set value="41" where service_id=15199 and name="speed" <br>2022-01-21 11:11:55 pedrot: deleted service 15201 PHN <br>

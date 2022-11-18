@@ -1,0 +1,1 @@
+2022-03-28 11:37:48 davidj: update service_attributes set value="103" where service_id=15346 and name="vlan" <br>2022-03-28 11:38:22 davidj: update service_attributes set value="101" where service_id=15346 and name="vlan" <br>2022-03-28 11:53:31 davidj: update service_attributes set value="103" where service_id=15346 and name="vlan" <br>

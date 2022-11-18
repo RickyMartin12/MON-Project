@@ -1,0 +1,1 @@
+2022-08-11 10:21:14 felisbelar: update service_attributes set value="34" where service_id=13754 and name="speed" <br>2022-08-11 10:22:20 felisbelar: deleted service 13753 TV <br>

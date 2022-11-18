@@ -1,0 +1,1 @@
+2021-12-27 15:08:24 davidj: update service_attributes set value="natrajwelcome" where service_id=11395 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2021-10-06 16:38:33 pedrot: deleted service 15051 TV <br>2022-07-06 11:18:01 pedrot: update service_attributes set value="42" where service_id=13314 and name="speed" <br>

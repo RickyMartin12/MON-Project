@@ -1,0 +1,1 @@
+2021-11-30 19:25:30 danielj: insert into service_attributes (service_id,name,value,date) values (16278,"vlan","100","2021-11-30") <br>2021-11-30 19:25:45 danielj: insert into service_attributes (service_id,name,value,date) values (16279,"vlan","1000","2021-11-30") <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 5594 as it was assigned to property BAV318 <br>

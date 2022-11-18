@@ -1,0 +1,1 @@
+2022-07-15 17:35:27 felisbelar: insert into service_attributes (service_id,name,value,date) values (18093,"portfw_id","22","2022-07-15") <br>

@@ -1,0 +1,1 @@
+2022-07-22 11:34:36 pedrot: update service_attributes set value="" where service_id=17726 and name="speed" <br>2022-07-22 11:34:36 pedrot: insert into service_attributes (service_id,name,value,date) values (17726,"unms_site","https://lazer.unmsapp.com/nms/endpoints/32ae9397-13c3-4dbb-908d-8a4b4800d77c","2022-07-22") <br>

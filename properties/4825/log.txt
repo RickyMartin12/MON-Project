@@ -1,0 +1,1 @@
+2022-07-08 10:29:40 mariov: insert into service_attributes (service_id,name,value,date) values (11572,"unifi_site","https://89.31.231.11:8443/manage/site/6ti4zlpu/dashboard","2022-07-08") <br>

@@ -1,0 +1,1 @@
+2019-06-12 16:21:05 tiagog: deleted service 6946 PHN <br>2022-08-11 20:25:40 pedrot: update service_attributes set value="82" where service_id=6945 and name="portfw_id" <br>

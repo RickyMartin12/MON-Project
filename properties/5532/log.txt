@@ -1,0 +1,1 @@
+2022-08-24 16:05:34 emilianor: update service_attributes set value="Cristian" where service_id=13863 and name="wifi_key" <br>

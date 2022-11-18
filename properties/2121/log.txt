@@ -1,0 +1,1 @@
+2019-06-15 carlosr: property upgraded INT from 15Mbps to 200Mbps2021-10-20 11:42:43 tiagog: update service_attributes set value="Lazer_D23_UK" where service_id=16046 and name="wifi_ssid" <br>

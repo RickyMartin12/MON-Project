@@ -1,0 +1,1 @@
+2021-12-30 15:28:15 pedrot: deleted modem 00FC8D177940 from connection 2710 as it was assigned to property BAV326 <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 2710 as it was assigned to property BAV318 <br>

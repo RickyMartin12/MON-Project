@@ -1,0 +1,1 @@
+2022-08-25 11:02:09 emilianor: update service_attributes set value="110" where service_id=18477 and name="vlan" <br>

@@ -1,0 +1,1 @@
+2021-11-19 10:13:42 tiagog: update service_attributes set value="MargarTienne14025!!" where service_id=15876 and name="wifi_key" <br>

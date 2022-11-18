@@ -1,0 +1,1 @@
+2021-12-15 16:01:21 mariov: update service_attributes set value="1" where service_id=12091 and name="is_router" <br>2021-12-15 16:01:21 mariov: update service_attributes set value="0" where service_id=12091 and name="bridge_port" <br>2021-12-15 16:02:41 mariov: update service_attributes set value="0" where service_id=12091 and name="wifi" <br>

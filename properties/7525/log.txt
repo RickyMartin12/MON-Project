@@ -1,0 +1,1 @@
+2022-07-11 20:27:08 danielj: update service_attributes set value="Casa3" where service_id=18051 and name="wifi_ssid" <br>2022-07-28 21:08:40 tiagog: update service_attributes set value="%Campsite#3" where service_id=18051 and name="wifi_key" <br>

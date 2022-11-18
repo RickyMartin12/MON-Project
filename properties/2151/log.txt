@@ -1,0 +1,1 @@
+2019-06-15 carlosr: property upgraded INT from 15Mbps to 200Mbps2022-03-01 10:34:00 mariov: insert into service_attributes (service_id,name,value,date) values (2837,"unifi_site","https://89.31.231.11:8443/manage/site/vclzhq94/devices/list/1/100","2022-03-01") <br>

@@ -1,0 +1,1 @@
+2021-11-23 10:31:07 pedrot: update service_attributes set value="101" where service_id=5269 and name="vlan" <br>2021-11-23 10:44:04 pedrot: insert into service_attributes (service_id,name,value,date) values (5269,"dhcp_id","17","2021-11-23") <br>

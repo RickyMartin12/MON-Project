@@ -1,0 +1,1 @@
+2022-03-15 17:35:48 tiagog: insert into service_attributes (service_id,name,value,date) values (17016,"portfw_id","16","2022-03-15") <br>

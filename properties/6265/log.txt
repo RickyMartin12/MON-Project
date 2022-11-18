@@ -1,0 +1,1 @@
+2021-09-23 17:18:37 pedrot: update service_attributes set value="Fludo2020!" where service_id=15915 and name="wifi_key" <br>

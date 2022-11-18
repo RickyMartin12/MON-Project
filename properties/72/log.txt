@@ -1,0 +1,1 @@
+2022-08-03 09:26:43 mariov: insert into service_attributes (service_id,name,value,date) values (5169,"wifi_site","https://hotspot.lazertelecom.com:8443/manage/site/ql0sgb0a/dashboard","2022-08-03") <br>

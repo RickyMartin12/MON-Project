@@ -1,0 +1,1 @@
+2022-03-22 17:00:22 mariov: update service_attributes set value="encosta34" where service_id=6632 and name="wifi_ssid" <br>2022-03-22 17:00:22 mariov: update service_attributes set value="encosta34" where service_id=6632 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2019-11-05 19:48:53 davida: deleted service 4439 INT <br>2019-11-05 19:50:09 davida: deleted service 4438 TV <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 2773 as it was assigned to property BAV318 <br>

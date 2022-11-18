@@ -1,0 +1,1 @@
+2019-09-04 17:39:01 davida: deleted service 5134 INT <br>2021-09-20 10:27:27 laurop: update service_attributes set value="32" where service_id=11821 and name="speed" <br>

@@ -1,0 +1,1 @@
+2022-07-25 14:05:55 danielj: deleted service 18184 INT <br>2022-07-25 14:06:11 danielj: deleted connection 8541 GPON, equip ZNTS1235896 and its services <br>2022-07-25 14:27:30 danielj: deleted connection 8544 GPON, equip  and its services <br>

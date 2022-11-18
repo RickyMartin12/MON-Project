@@ -1,0 +1,1 @@
+2020-10-22 20:26:02 : deleted service 3706 PHN <br>2022-04-04 12:38:07 tiagog: update service_attributes set value="Donoghue" where service_id=3705 and name="wifi_ssid" <br>2022-04-28 16:47:57 pedrot: update service_attributes set value="0" where service_id=3705 and name="wifi" <br>

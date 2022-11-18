@@ -1,0 +1,1 @@
+2019-07-23 17:10:36 tiagog: deleted service 11587 TV <br>2022-03-15 16:21:43 danielj: deleted modem  from connection 4862 as it was assigned to property BAV318 <br>

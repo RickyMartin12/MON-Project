@@ -1,0 +1,1 @@
+2022-06-03 16:06:22 felisbelar: connection GPON added with equipment ZNTS03F6513F<br>2022-06-03 16:43:47 pedrot: update service_attributes set value="49caminho" where service_id=17702 and name="wifi_key" <br>

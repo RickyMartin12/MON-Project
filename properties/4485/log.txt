@@ -1,0 +1,1 @@
+2022-07-08 13:24:21 felisbelar: update service_attributes set value="0" where service_id=11070 and name="wifi" <br>

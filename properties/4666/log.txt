@@ -1,0 +1,1 @@
+2022-01-18 18:07:04 davidj: update service_attributes set value="41" where service_id=11621 and name="speed" <br>2022-06-22 09:11:10 pedrot: update service_attributes set value="Lazer_Floresta_UK" where service_id=17831 and name="wifi_ssid" <br>2022-06-22 09:11:10 pedrot: update service_attributes set value="scl077alm" where service_id=17831 and name="wifi_key" <br>

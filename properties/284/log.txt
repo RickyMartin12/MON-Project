@@ -1,0 +1,1 @@
+2022-03-11 11:53:04 tiagog: update service_attributes set value="33" where service_id=6857 and name="speed" <br>2022-04-01 12:24:56 davidj: deleted service 6858 PHN <br>2022-04-06 14:00:47 mariov: update service_attributes set value="10" where service_id=6857 and name="speed" <br>

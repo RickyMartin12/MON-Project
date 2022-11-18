@@ -1,0 +1,1 @@
+2021-09-29 08:52:31 laurop: update service_attributes set value="31" where service_id=11453 and name="speed" <br>2021-09-29 08:53:11 laurop: update service_attributes set value="7" where service_id=11453 and name="speed" <br>2021-09-29 13:56:18 mariov: update service_attributes set value="31" where service_id=11453 and name="speed" <br>

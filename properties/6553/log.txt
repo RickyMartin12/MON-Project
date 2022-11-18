@@ -1,0 +1,1 @@
+2022-03-29 13:04:54 davidj: update service_attributes set value="Alfeicao7" where service_id=17119 and name="wifi_key" <br>

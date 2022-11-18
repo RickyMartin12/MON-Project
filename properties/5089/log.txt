@@ -1,0 +1,1 @@
+2020-03-26 16:34:34 brunoc: deleted service 12530 PHN <br>2022-06-26 11:33:21 tiagog: update service_attributes set value="41" where service_id=12529 and name="speed" <br>

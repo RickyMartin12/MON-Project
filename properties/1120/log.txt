@@ -1,0 +1,1 @@
+2022-06-30 11:12:01 tiagog: update service_attributes set value="66" where service_id=7571 and name="speed" <br>2022-06-30 11:12:42 tiagog: deleted service 15821 INT <br>

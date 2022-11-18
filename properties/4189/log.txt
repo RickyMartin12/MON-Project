@@ -1,0 +1,1 @@
+2019-12-03 12:39:57 tiagog: deleted service 8828 TV <br>2021-11-20 14:59:31 pedrot: update service_attributes set value="Lazer1120" where service_id=8829 and name="wifi_ssid" <br>

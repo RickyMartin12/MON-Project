@@ -1,0 +1,1 @@
+2022-01-31 11:25:53 davidj: update service_attributes set value="ONT" where service_id=5027 and name="phn_equip" <br>

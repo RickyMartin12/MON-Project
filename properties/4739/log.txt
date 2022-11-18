@@ -1,0 +1,1 @@
+2021-11-23 16:00:58 tiagog: update service_attributes set value="1013" where service_id=11584 and name="vlan" <br>2021-12-05 16:19:28 tiagog: update service_attributes set value="80.91.77.103" where service_id=11584 and name="fixed_ip" <br>2022-07-05 19:16:26 tiagog: update service_attributes set value="1012" where service_id=11584 and name="vlan" <br>

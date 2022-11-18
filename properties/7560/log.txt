@@ -1,0 +1,1 @@
+2022-07-19 16:11:44 felisbelar: update service_attributes set value="" where service_id=18110 and name="speed" <br>2022-07-19 16:11:44 felisbelar: update service_attributes set value="Lazer215" where service_id=18110 and name="wifi_ssid" <br>

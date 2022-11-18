@@ -1,0 +1,1 @@
+2022-03-15 16:21:41 danielj: deleted modem  from connection 3201 as it was assigned to property BAV318 <br>2022-06-17 11:34:27 mariov: update service_attributes set value="cunhavdl" where service_id=17793 and name="wifi_key" <br>2022-06-17 12:02:34 mariov: update service_attributes set value="100" where service_id=17792 and name="vlan" <br>

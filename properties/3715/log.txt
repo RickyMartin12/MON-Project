@@ -1,0 +1,1 @@
+2019-10-01 10:05:09 danielj: deleted service 6434 TV <br>2019-10-01 10:05:15 danielj: deleted service 6435 INT <br>2022-03-15 16:21:42 danielj: deleted modem  from connection 3715 as it was assigned to property BAV318 <br>

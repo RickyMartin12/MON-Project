@@ -1,0 +1,1 @@
+2021-11-30 14:43:37 danielj: connection DARKF added with equipment  <br>2021-12-02 17:56:56 danielj: deleted connection 7305 ETH, equip  and its services <br>2022-03-15 16:21:41 danielj: deleted modem  from connection 3234 as it was assigned to property BAV318 <br>

@@ -1,0 +1,1 @@
+2022-04-22 16:18:09 tiagog: update service_attributes set value="41" where service_id=5214 and name="speed" <br>2022-04-22 16:18:09 tiagog: update service_attributes set value=""DUNAS 608"" where service_id=5214 and name="wifi_ssid" <br>

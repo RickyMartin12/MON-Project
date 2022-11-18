@@ -1,0 +1,1 @@
+2022-05-03 15:23:58 tiagog: insert into service_attributes (service_id,name,value,date) values (15243,"unifi_site","94lro4e2","2022-05-03") <br>2022-05-03 15:24:32 tiagog: update service_attributes set value="https://hotspot.lazertelecom.com:8443/manage/site/94lro4e2/devices/list/1/100" where service_id=15243 and name="unifi_site" <br>

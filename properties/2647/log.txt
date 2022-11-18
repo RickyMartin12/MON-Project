@@ -1,0 +1,1 @@
+2021-03-04 12:25:52 mariov: deleted service 14427 INT <br>2021-11-30 12:14:10 mariov: update service_attributes set value="41" where service_id=3908 and name="speed" <br>2021-11-30 12:32:39 mariov: update service_attributes set value="dwg023sla" where service_id=14428 and name="wifi_key" <br>

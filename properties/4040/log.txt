@@ -1,0 +1,1 @@
+2021-12-22 16:09:17 davidj: insert into service_attributes (service_id,name,value,date) values (9123,"portfw_id","195","2021-12-22") <br>

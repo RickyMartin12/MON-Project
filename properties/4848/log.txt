@@ -1,0 +1,1 @@
+2022-10-18 09:12:22 ricardop: All Services on connection number <b>4900</b> was suspended on date <b>2022-10-18</b><br>2022-10-18 09:12:27 ricardop: All Services on connection number <b>4900</b> was reactivated on date <b>2022-10-18</b><br>

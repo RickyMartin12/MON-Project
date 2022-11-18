@@ -1,0 +1,1 @@
+2021-09-15 17:54:42 laurop: update service_attributes set value="32" where service_id=13766 and name="speed" <br>

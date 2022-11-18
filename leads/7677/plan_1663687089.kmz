@@ -1,0 +1,4 @@
+AuthName "Lazer Technical Department"
+AuthType Basic
+AuthUserFile '/var/www/html/mon/.htpasswd'
+Require valid-user

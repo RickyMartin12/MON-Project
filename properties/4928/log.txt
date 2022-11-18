@@ -1,0 +1,1 @@
+2019-10-07 12:33:30 ricardom: deleted connection 5031 GPON, equip ZNTS and its services  id 11939type TV id 11940type INT<br>2019-10-07 12:35:02 ricardom: connection GPON added with equipment ZNTS03998D6F<br>

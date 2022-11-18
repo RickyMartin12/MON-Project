@@ -1,0 +1,1 @@
+2022-05-23 15:42:00 pedrot: deleted service 7379 INT <br>2022-05-23 15:44:12 pedrot: update service_attributes set value="66" where service_id=7294 and name="speed" <br>2022-05-23 17:20:59 felisbelar: deleted modem AC202EFB67C0 from connection 780 as it was assigned to property OCA017 <br>

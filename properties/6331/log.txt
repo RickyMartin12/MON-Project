@@ -1,0 +1,1 @@
+2022-01-28 10:00:31 mariov: update service_attributes set value="33" where service_id=16047 and name="speed" <br>2022-01-28 10:04:50 mariov: update service_attributes set value="113" where service_id=16047 and name="vlan" <br>2022-03-09 15:12:41 pedrot: update service_attributes set value="0" where service_id=16047 and name="wifi" <br>

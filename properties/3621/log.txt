@@ -1,0 +1,1 @@
+2020-05-20 20:53:58 tiagog: deleted service 6136 PHN <br>2022-04-03 19:31:32 davidj: update service_attributes set value="41" where service_id=6135 and name="speed" <br>

@@ -1,0 +1,1 @@
+2021-12-17 12:01:41 pedrot: insert into service_attributes (service_id,name,value,date) values (16380,"unifi_site","","2021-12-17") <br>2021-12-17 12:11:35 pedrot: update service_attributes set value="https://89.31.231.11:8443/manage/site/wmlucbv4/dashboard" where service_id=16380 and name="unifi_site" <br>

@@ -1,0 +1,1 @@
+2022-02-24 12:04:12 pedrot: insert into service_attributes (service_id,name,value,date) values (16874,"portfw_id","STB197","2022-02-24") <br>2022-02-24 12:10:58 pedrot: insert into service_attributes (service_id,name,value,date) values (16874,"ip_addr","192.168.1.254","2022-02-24") <br>

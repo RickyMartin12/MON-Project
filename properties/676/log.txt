@@ -1,0 +1,1 @@
+2022-07-14 09:24:45 pedrot: update service_attributes set value="1001" where service_id=13524 and name="vlan" <br>2022-08-04 15:31:16 tiagog: update service_attributes set value="41" where service_id=13524 and name="speed" <br>

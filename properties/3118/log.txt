@@ -1,0 +1,1 @@
+2022-03-15 16:21:41 danielj: deleted modem  from connection 3118 as it was assigned to property BAV318 <br>2022-06-01 14:48:34 pedrot: update service_attributes set value="Lazer_306" where service_id=17663 and name="wifi_ssid" <br>

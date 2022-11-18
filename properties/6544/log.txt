@@ -1,0 +1,1 @@
+2022-04-28 15:32:17 mariov: update service_attributes set value="Casa_Tutt" where service_id=16490 and name="wifi_ssid" <br>

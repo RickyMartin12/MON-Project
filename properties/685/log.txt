@@ -1,0 +1,1 @@
+2022-04-26 16:00:32 pedrot: update service_attributes set value="66" where service_id=7568 and name="speed" <br>2022-04-27 18:55:55 mariov: update service_attributes set value="Lazer313D" where service_id=7568 and name="wifi_ssid" <br>2022-04-27 18:55:55 mariov: update service_attributes set value="1a2b3c4d5e" where service_id=7568 and name="wifi_key" <br>

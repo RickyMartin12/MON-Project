@@ -1,0 +1,1 @@
+2022-08-08 18:48:56 felisbelar: update service_attributes set value="anexo123" where service_id=18330 and name="wifi_key" <br>

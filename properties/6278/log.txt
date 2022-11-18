@@ -1,0 +1,1 @@
+2022-10-06 10:24:54 ricardop: All Services on connection number <b>7168</b> was suspended on date <b>2022-10-04</b><br>2022-10-06 10:25:06 ricardop: All Services on connection number <b>7168</b> was reactivated on date <b>2022-10-06</b><br>

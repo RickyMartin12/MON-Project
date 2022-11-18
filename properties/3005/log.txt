@@ -1,0 +1,1 @@
+2022-03-15 16:21:41 danielj: deleted modem  from connection 3005 as it was assigned to property BAV318 <br>2022-05-30 15:19:26 mariov: update service_attributes set value="0" where service_id=13784 and name="wifi" <br>2022-06-04 11:44:22 pedrot: update service_attributes set value="1" where service_id=13784 and name="wifi" <br>

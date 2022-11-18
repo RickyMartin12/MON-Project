@@ -1,0 +1,1 @@
+2020-02-19 16:04:13 davida: deleted service 8213 PHN <br>2022-03-26 15:24:30 tiagog: update service_attributes set value="9" where service_id=12413 and name="speed" <br>2022-04-12 09:39:05 pedrot: update service_attributes set value="0" where service_id=12413 and name="wifi" <br>

@@ -1,0 +1,1 @@
+2022-03-15 16:21:40 danielj: deleted modem  from connection 2752 as it was assigned to property BAV318 <br>2022-09-16 12:26:27 danielj: Insert coax equipment 333 on type COAX<br>2022-09-16 12:26:27 danielj: connection COAX added with equipment 333 <br>

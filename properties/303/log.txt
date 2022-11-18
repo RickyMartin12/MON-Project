@@ -1,0 +1,1 @@
+2021-12-01 15:30:11 pedrot: deleted service 16281 PHN <br>2021-12-01 15:38:46 pedrot: update service_attributes set value="4223" where service_id=16282 and name="account" <br>2022-03-02 15:36:49 davidj: deleted service 16916 PHN <br>2022-03-02 16:22:54 davidj: update service_attributes set value="2" where service_id=8196 and name="phn_port" <br>

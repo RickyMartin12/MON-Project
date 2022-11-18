@@ -1,0 +1,1 @@
+2021-11-18 11:43:02 tiagog: update service_attributes set value="0" where service_id=16210 and name="wifi" <br>2021-11-18 12:31:15 danielj: connection GPON added with equipment ZNTS03D6D6CF<br>2021-11-18 14:52:55 tiagog: update service_attributes set value="113" where service_id=16211 and name="vlan" <br>

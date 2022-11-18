@@ -1,0 +1,1 @@
+2019-04-16 10:36:57 carlosr: deleted service 8228 PHN <br>2022-07-27 19:13:46 tiagog: update service_attributes set value="9" where service_id=11653 and name="speed" <br>

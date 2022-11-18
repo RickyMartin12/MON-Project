@@ -1,0 +1,1 @@
+2022-03-17 16:06:57 davidj: deleted service 3273 PHN <br>2022-03-17 16:07:13 davidj: deleted service 8247 PHN <br>2022-03-17 16:07:21 davidj: deleted service 8296 PHN <br>2022-06-25 14:53:27 tiagog: update service_attributes set value="7" where service_id=3272 and name="speed" <br>

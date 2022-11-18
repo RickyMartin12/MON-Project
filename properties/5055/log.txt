@@ -1,0 +1,1 @@
+2021-09-23 13:26:53 tiagog: update service_attributes set value="bert2001" where service_id=13880 and name="wifi_key" <br>2021-09-23 13:27:05 tiagog: update service_attributes set value="bert2021" where service_id=13880 and name="wifi_key" <br>

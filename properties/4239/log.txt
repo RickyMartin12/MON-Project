@@ -1,0 +1,1 @@
+2022-05-13 15:43:27 tiagog: update service_attributes set value="Captains_Bar" where service_id=9001 and name="wifi_ssid" <br>

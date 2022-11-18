@@ -1,0 +1,1 @@
+2021-10-24 16:19:44 laurop: update service_attributes set value="Lazer_19" where service_id=7544 and name="wifi_ssid" <br>2021-10-24 16:19:44 laurop: update service_attributes set value="lzr008gav" where service_id=7544 and name="wifi_key" <br>2022-04-18 16:37:20 tiagog: update service_attributes set value="66" where service_id=7544 and name="speed" <br>

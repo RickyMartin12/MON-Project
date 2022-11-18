@@ -1,0 +1,1 @@
+2022-01-26 13:08:56 davidj: update service_attributes set value="43" where service_id=12206 and name="speed" <br>2022-01-26 13:08:56 davidj: update service_attributes set value="Lazer_573" where service_id=12206 and name="wifi_ssid" <br>2022-01-26 13:20:54 davidj: update service_attributes set value="Lazer_573_UK" where service_id=16640 and name="wifi_ssid" <br>

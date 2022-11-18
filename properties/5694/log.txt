@@ -1,0 +1,1 @@
+2022-07-17 14:59:18 mariov: update service_attributes set value="https://89.31.231.11:8443/manage/site/5f6gefvg/devices/list/1/100" where service_id=14072 and name="unifi_site" <br>

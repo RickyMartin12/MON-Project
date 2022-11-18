@@ -1,0 +1,1 @@
+2020-09-15 21:01:29 tiagog: deleted service 6895 INT <br>2020-09-15 21:01:37 tiagog: deleted service 9095 PHN <br>2022-03-15 16:21:42 danielj: deleted modem  from connection 3819 as it was assigned to property BAV318 <br>

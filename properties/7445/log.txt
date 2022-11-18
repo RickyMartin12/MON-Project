@@ -1,0 +1,1 @@
+2022-06-28 18:48:43 danielj: update service_attributes set value="Dune_1" where service_id=17888 and name="wifi_ssid" <br>2022-06-29 18:11:11 carlosr: update service_attributes set value="costaterra" where service_id=17888 and name="wifi_key" <br>

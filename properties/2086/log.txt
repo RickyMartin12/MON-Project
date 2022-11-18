@@ -1,0 +1,1 @@
+2019-06-15 carlosr: property upgraded INT from 15Mbps to 200Mbps2022-02-13 17:37:48 mariov: update service_attributes set value="1005" where service_id=16763 and name="vlan" <br>2022-02-13 17:38:05 mariov: insert into service_attributes (service_id,name,value,date) values (16763,"bridge_port","4","2022-02-13") <br>

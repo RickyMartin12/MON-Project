@@ -1,0 +1,1 @@
+2022-02-24 17:23:02 pedrot: update service_attributes set value="CESTBIENLA" where service_id=16881 and name="wifi_key" <br>

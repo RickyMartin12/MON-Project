@@ -1,0 +1,1 @@
+2019-10-25 17:05:58 tiagog: deleted service 5345 TV <br>2021-06-22 10:27:08 mariov: deleted service 5347 PHN <br>2022-03-20 19:50:30 pedrot: update service_attributes set value="41" where service_id=5346 and name="speed" <br>

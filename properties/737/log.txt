@@ -1,0 +1,1 @@
+2022-04-04 17:33:07 pedrot: update service_attributes set value="41" where service_id=1717 and name="speed" <br>2022-04-05 09:16:51 tiagog: update service_attributes set value="Karibu Sana" where service_id=1717 and name="wifi_ssid" <br>

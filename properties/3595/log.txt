@@ -1,0 +1,1 @@
+Previous Equipment <b>ZNTS03725211</b> on connection number <b>3595</b><br>Insert Equipment <b>ZNTS0372521A</b> on connection number <b>3595</b> on type connection <b>GPON</b> (ONT, FWA CPE)<br>Update Model <b>zhone-2428</b> on property lead number <b>8692</b><br>Service type 'INT' was insert successfully on connection number <b>3595</b><br>

@@ -1,0 +1,1 @@
+2022-04-19 16:20:05 tiagog: update service_attributes set value="9" where service_id=2622 and name="speed" <br>2022-07-22 11:06:42 pedrot: insert into service_attributes (service_id,name,value,date) values (2622,"unms_site","https://lazer.unmsapp.com/nms/endpoints/5ac3e349-c515-47ea-a2bb-e4cb31f93b6c","2022-07-22") <br>

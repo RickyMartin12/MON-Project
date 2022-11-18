@@ -1,0 +1,1 @@
+2022-08-11 20:25:17 pedrot: update service_attributes set value="129" where service_id=6812 and name="portfw_id" <br>

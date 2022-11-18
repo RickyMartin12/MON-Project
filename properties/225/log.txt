@@ -1,0 +1,1 @@
+2020-03-04 14:46:30 davida: deleted service 71 TV <br>2020-03-04 14:46:34 davida: deleted service 7317 INT <br>2022-03-14 12:14:30 tiagog: update service_attributes set value="9" where service_id=9131 and name="speed" <br>

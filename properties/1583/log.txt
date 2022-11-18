@@ -1,0 +1,1 @@
+2022-05-12 18:52:14 tiagog: update service_attributes set value="dss065eca" where service_id=17165 and name="wifi_key" <br>

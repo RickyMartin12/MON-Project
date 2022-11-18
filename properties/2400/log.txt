@@ -1,0 +1,1 @@
+2021-09-13 21:06:18 carlosr: update service_attributes set value="10" where service_id=7582 and name="speed" <br>2022-05-02 13:50:43 tiagog: update service_attributes set value="66" where service_id=7582 and name="speed" <br>

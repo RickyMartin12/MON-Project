@@ -1,0 +1,1 @@
+2021-06-06 16:58:54 tiagog: deleted service 2147 PHN <br>2022-04-16 13:41:18 pedrot: insert into service_attributes (service_id,name,value,date) values (2145,"unifi_site","https://89.31.231.11:8443/manage/site/15lxuswc/dashboard","2022-04-16") <br>

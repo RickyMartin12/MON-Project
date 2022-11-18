@@ -1,0 +1,1 @@
+2022-02-08 17:06:36 davidj: update service_attributes set value="9" where service_id=3021 and name="speed" <br>2022-03-19 13:35:19 pedrot: update service_attributes set value="103" where service_id=3021 and name="vlan" <br>

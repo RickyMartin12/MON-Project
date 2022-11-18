@@ -1,0 +1,1 @@
+2022-06-07 08:46:58 mariov: update service_attributes set value="41" where service_id=4785 and name="speed" <br>2022-06-13 17:05:09 pedrot: update service_attributes set value="42" where service_id=4785 and name="speed" <br>2022-06-13 17:07:36 pedrot: deleted service 4784 TV <br>

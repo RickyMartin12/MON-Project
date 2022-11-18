@@ -1,0 +1,1 @@
+2022-04-26 12:22:34 pedrot: update service_attributes set value=""MMLAZER?"" where service_id=17332 and name="wifi_ssid" <br>2022-04-26 12:24:43 pedrot: update service_attributes set value="MMLAZER" where service_id=17332 and name="wifi_ssid" <br>

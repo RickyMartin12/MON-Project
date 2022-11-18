@@ -1,0 +1,1 @@
+2020-05-07 15:26:04 tiagog: deleted service 5472 TV <br>2020-05-07 15:26:19 tiagog: deleted service 5474 PHN <br>2020-05-07 15:26:31 tiagog: deleted service 5473 INT <br>2022-06-26 14:43:55 tiagog: update service_attributes set value="41" where service_id=13353 and name="speed" <br>

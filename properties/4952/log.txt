@@ -1,0 +1,1 @@
+2022-06-05 15:48:01 pedrot: update service_attributes set value="42" where service_id=12067 and name="speed" <br>

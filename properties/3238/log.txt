@@ -1,0 +1,1 @@
+2020-05-27 18:36:29 brunoc: deleted connection 5646 GPON, equip ZNTS037259C3 and its services  id 13213type TV id 13214type INT<br>2022-03-15 16:21:41 danielj: deleted modem  from connection 3238 as it was assigned to property BAV318 <br>

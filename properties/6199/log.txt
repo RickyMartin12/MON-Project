@@ -1,0 +1,1 @@
+2021-10-19 17:13:35 laurop: update service_attributes set value="Dvabrjq7" where service_id=16043 and name="wifi_key" <br>

@@ -1,0 +1,1 @@
+2021-09-24 16:44:00 tiagog: update service_attributes set value="2" where service_id=6352 and name="phn_port" <br>2021-09-24 17:23:24 tiagog: update service_attributes set value="1" where service_id=6352 and name="phn_port" <br>

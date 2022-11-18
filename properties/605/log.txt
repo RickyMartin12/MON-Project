@@ -1,0 +1,1 @@
+2020-05-31 15:44:54 brunoc: deleted service 13223 INT <br>2022-04-30 11:44:39 mariov: insert into service_attributes (service_id,name,value,date) values (3353,"unifi_site","https://hotspot.lazertelecom.com:8443/manage/site/vmtzrdzu/dashboard","2022-04-30") <br>

@@ -1,0 +1,1 @@
+2021-01-21 16:43:56 danielj: deleted service 1775 PHN <br>2021-10-06 10:54:56 mariov: insert into service_attributes (service_id,name,value,date) values (1774,"portfw_profile","69","2021-10-06") <br>

@@ -1,0 +1,1 @@
+2022-05-11 19:49:47 pedrot: deleted service 7034 PHN <br>2022-08-11 21:22:04 pedrot: update service_attributes set value="Encosta do Lobo 32" where service_id=7033 and name="wifi_ssid" <br>

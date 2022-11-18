@@ -1,0 +1,1 @@
+2021-09-28 17:25:27 mariov: update service_attributes set value="" where service_id=15666 and name="speed" <br>2021-09-28 17:25:27 mariov: update service_attributes set value="brugmansia" where service_id=15666 and name="wifi_ssid" <br>2021-09-28 17:25:27 mariov: update service_attributes set value="drain4279bucket" where service_id=15666 and name="wifi_key" <br>

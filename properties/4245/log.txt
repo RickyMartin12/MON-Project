@@ -1,0 +1,1 @@
+2021-12-14 13:53:59 tiagog: update service_attributes set value="113" where service_id=9022 and name="vlan" <br>2021-12-15 20:08:27 tiagog: insert into service_attributes (service_id,name,value,date) values (9022,"portfw_id","8","2021-12-15") <br>

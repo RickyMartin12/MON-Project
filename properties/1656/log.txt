@@ -1,0 +1,1 @@
+2020-04-21 03:04:21 carlosr: connection ETH added with equipment ac84c6f1b535 <br>2022-03-15 16:21:40 danielj: deleted modem  from connection 1656 as it was assigned to property BAV318 <br>

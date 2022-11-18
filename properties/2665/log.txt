@@ -1,0 +1,1 @@
+2021-01-15 16:24:32 brunoc: deleted service 3986 PHN <br>2021-09-20 16:58:31 laurop: update service_attributes set value="31" where service_id=3985 and name="speed" <br>2021-09-20 16:58:31 laurop: update service_attributes set value="lzr655vdl" where service_id=3985 and name="wifi_key" <br>2021-09-20 17:04:20 laurop: deleted service 3984 TV <br>

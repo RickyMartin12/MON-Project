@@ -1,0 +1,1 @@
+2022-03-31 18:20:16 tiagog: update service_attributes set value="Lazer_Anita" where service_id=17150 and name="wifi_ssid" <br>

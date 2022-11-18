@@ -1,0 +1,1 @@
+2022-03-29 12:36:41 davidj: update service_attributes set value="" where service_id=17109 and name="speed" <br>2022-03-29 12:36:41 davidj: update service_attributes set value="Lazer_Quinta_do_Falcao" where service_id=17109 and name="wifi_ssid" <br>

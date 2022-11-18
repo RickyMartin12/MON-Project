@@ -1,0 +1,1 @@
+2022-08-09 11:11:05 tiagog: update service_attributes set value="41" where service_id=3104 and name="speed" <br>2022-08-11 14:35:49 pedrot: insert into service_attributes (service_id,name,value,date) values (3104,"wifi_site","https://89.31.231.11:8343/717395e0d70b0213193d271861c72b1e/","2022-08-11") <br>

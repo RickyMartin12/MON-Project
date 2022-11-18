@@ -1,0 +1,1 @@
+2022-03-10 11:56:24 pedrot: update service_attributes set value="10" where service_id=14013 and name="speed" <br>2022-03-12 17:17:07 davidj: update service_attributes set value="Lazer_471" where service_id=14013 and name="wifi_ssid" <br>

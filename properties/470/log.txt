@@ -1,0 +1,1 @@
+2022-04-11 17:55:16 pedrot: deleted modem 0C473D9C76E0 from connection 470 as it was assigned to property ECA041 <br>2022-06-11 11:54:46 mariov: update service_attributes set value="9" where service_id=13252 and name="speed" <br>

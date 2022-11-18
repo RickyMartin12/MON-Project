@@ -1,0 +1,1 @@
+2019-12-27 14:59:23 davida: deleted connection 5178 GPON, equip ZNTS038CAB9F and its services  id 12227type TV id 12228type INT<br>2020-01-03 17:24:51 davida: deleted connection 4337 GPON, equip ZNTS03879B23 and its services  id 10504type TV id 10505type INT<br>

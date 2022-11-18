@@ -1,0 +1,1 @@
+2022-08-24 15:38:45 emilianor: insert into service_attributes (service_id,name,value,date) values (18472,"unms_site","https://lazer.unmsapp.com/nms/endpoints/592a2560-b56f-47f7-8651-603d88b65935","2022-08-24") <br>2022-11-14 10:06:32 ricardop: <b>Entry Log on Property number 7771</b> - as<br>

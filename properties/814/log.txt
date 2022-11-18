@@ -1,0 +1,1 @@
+2022-06-03 11:22:36 pedrot: deleted modem AC202E639440 from connection 814 as it was assigned to property DDR201 <br>2022-06-03 11:56:45 pedrot: update service_attributes set value="103" where service_id=17696 and name="vlan" <br>2022-06-20 20:04:33 felisbelar: update service_attributes set value="Lazer Cable TV 622" where service_id=17696 and name="wifi_ssid" <br>

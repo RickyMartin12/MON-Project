@@ -1,0 +1,1 @@
+2022-03-10 17:57:44 mariov: update service_attributes set value="1005" where service_id=16999 and name="vlan" <br>2022-03-10 17:59:59 mariov: insert into service_attributes (service_id,name,value,date) values (16999,"bridge_port","1","2022-03-10") <br>2022-03-10 18:01:29 mariov: update service_attributes set value="3" where service_id=16999 and name="bridge_port" <br>

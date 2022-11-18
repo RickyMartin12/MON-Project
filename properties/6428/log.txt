@@ -1,0 +1,1 @@
+2021-12-07 16:09:09 pedrot: update service_attributes set value="TP-Link_E5C4" where service_id=16316 and name="wifi_ssid" <br>2021-12-07 16:09:09 pedrot: update service_attributes set value="26515946" where service_id=16316 and name="wifi_key" <br>

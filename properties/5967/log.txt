@@ -1,0 +1,1 @@
+2021-11-30 19:58:34 pedrot: update service_attributes set value="El_Dourado_Wifi" where service_id=16274 and name="wifi_ssid" <br>2021-11-30 19:58:34 pedrot: update service_attributes set value="#dourados#" where service_id=16274 and name="wifi_key" <br>2021-11-30 19:58:46 pedrot: update service_attributes set value="#dourado#" where service_id=16274 and name="wifi_key" <br>

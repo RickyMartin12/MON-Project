@@ -1,0 +1,1 @@
+2021-12-20 18:51:46 pedrot: update service_attributes set value="113" where service_id=5774 and name="vlan" <br>2021-12-20 19:35:37 pedrot: deleted service 5775 PHN <br>

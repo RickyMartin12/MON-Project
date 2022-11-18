@@ -1,0 +1,1 @@
+2021-09-20 13:45:14 tiagog: update service_attributes set value=""Casa Tawton"" where service_id=15882 and name="wifi_ssid" <br>2021-09-20 13:47:50 tiagog: update service_attributes set value="Casa Tawton" where service_id=15882 and name="wifi_ssid" <br>2021-09-20 13:47:51 tiagog: update service_attributes set value="standrews" where service_id=15882 and name="wifi_key" <br>

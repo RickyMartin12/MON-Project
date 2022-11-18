@@ -1,0 +1,1 @@
+2022-01-24 12:20:53 danielj: insert into service_attributes (service_id,name,value,date) values (10474,"fixed_ip","89.31.228.43","2022-01-24") <br>2022-02-10 21:29:35 davidj: insert into service_attributes (service_id,name,value,date) values (10474,"portfw_id","202","2022-02-10") <br>
